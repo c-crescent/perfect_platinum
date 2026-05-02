@@ -5,9 +5,6 @@
       "id": "LakeVerity_Text_WhatTimingYouveGotToHelpDawn",
       "en_US": [
         "Rowan: Ah, {STRVAR_1 3, 0, 0}!\n",
-        "What timing!\r",
-        "Those Team Galactic scoundrels are\n",
-        "after the legendary Pokémon!\r",
         "You’ve got to help Dawn!"
       ]
     },
@@ -15,10 +12,6 @@
       "id": "LakeVerity_Text_WhatTimingYouveGotToHelpLucas",
       "en_US": [
         "Rowan: Ah, {STRVAR_1 3, 0, 0}!\n",
-        "What timing!\r",
-        "Those Team Galactic scoundrels are\n",
-        "after the legendary Pokémon!\r",
-        "{STRVAR_1 3, 0, 0}, help us!\n",
         "You’ve got to help Lucas!"
       ]
     },
@@ -60,40 +53,23 @@
     {
       "id": "LakeVerity_Text_DawnICouldntBeatThisPerson",
       "en_US": [
-        "Dawn: {STRVAR_1 3, 0, 0}!\n",
-        "It’s T-Team Galactic!\r",
-        "They’re taking the Pokémon of the\n",
-        "lake...\r",
-        "I...\n",
-        "I couldn’t beat this person..."
+        "Dawn: It’s Team Galactic!\n",
+        "They took the Pokémon of the lake...\r",
+        "This woman...\n",
+        "I lost to her, but just barely! \r"
       ]
     },
     {
       "id": "LakeVerity_Text_LucasILostToHerButJustBarely",
       "en_US": [
         "Lucas: It’s Team Galactic!\n",
-        "They took the Pokémon of the lake...\r",
-        "This woman...\n",
-        "I lost to her, but just barely!"
+        "I lost to her, I am sorry. \r"
       ]
     },
     {
       "id": "LakeVerity_Text_MarsIntro",
       "en_US": [
         "Mars: That face...!\n",
-        "It brings back bad memories!\r",
-        "I’m talking about the windworks!\r",
-        "I caught a whole lot of trouble\n",
-        "for that little incident.\r",
-        "What’s with that look on your face?\n",
-        "You do remember me, don’t you?\r",
-        "Fine, whatever.\n",
-        "I’ll tell you who I am again!\r",
-        "I’m Mars, one of Team Galactic’s\n",
-        "Commanders.\r",
-        "So, what is it? Are you some\n",
-        "lovey-dovey couple to the rescue?\r",
-        "Not a chance! Not even a teeny one!\n",
         "You’re all going down!\r"
       ]
     },
@@ -101,10 +77,6 @@
       "id": "LakeVerity_Text_MarsDefeat",
       "en_US": [
         "I lost again...\r",
-        "So, first the windworks, and now\n",
-        "Lake Verity that I owe you for!\r",
-        "This shouldn’t be happening to Team\n",
-        "Galactic’s Commander...\r",
         "...Calm down, Mars...\n",
         "I’ve done my part in all of this...\r",
         "My mission was to transport the\n",
@@ -125,15 +97,6 @@
       "en_US": [
         "The Pokémon of the three lakes are\n",
         "connected somehow.\r",
-        "Thanks to Saturn’s grandstanding at\n",
-        "Lake Valor, a cavern appeared here.\r",
-        "It was the cavern where the Pokémon\n",
-        "MESPRIT slept.\r",
-        "MESPRIT appeared, too, probably to\n",
-        "go help its friends.\r",
-        "That worked out well for us.\n",
-        "It was super easy to catch.\r",
-        "So, now we’ve got them all:\n",
         "MESPRIT, “The Being of Emotion.”\f",
         "AZELF, “The Being of Willpower.”\f",
         "UXIE, “The Being of Intelligence.”\r",
@@ -147,12 +110,6 @@
       "en_US": [
         "Rowan: I see...\n",
         "This also occurred at Lake Valor...\r",
-        "Another legendary Pokémon was taken\n",
-        "away by Team Galactic...\r",
-        "Both of you went up against\n",
-        "full-fledged criminals...\r",
-        "The fact that you’re unharmed is\n",
-        "reason enough to celebrate.\r",
         "...But what about {STRVAR_1 3, 0, 0}?\r",
         "What is happening at Lake Acuity?\n",
         "Is {STRVAR_1 3, 0, 0} safe?"

@@ -5,9 +5,7 @@
       "id": "TwinleafTownPlayerHouse1F_Text_RivalAlreadyLeft",
       "en_US": [
         "Mom: {STRVAR_1 3, 0, 0}!\r",
-        "{STRVAR_1 3, 1, 0} already left.\r",
-        "I don’t know what it was about, but\n",
-        "he sure was in a hurry!\r"
+        "{STRVAR_1 3, 1, 0} already left.\r"
       ]
     },
     {
@@ -38,11 +36,7 @@
       "en_US": [
         "Mom: Oh, yes!\n",
         "{STRVAR_1 3, 0, 0}!\r",
-        "Don’t go into the tall grass.\n",
-        "Wild Pokémon might attack you.\r",
-        "It would be OK if you had your own\n",
-        "Pokémon, but you don’t, so...\r",
-        "Well, take care, sweetie!"
+        "Don’t go into the tall grass.\r"
       ]
     },
     {
@@ -57,18 +51,7 @@
       "en_US": [
         "Mom: What’s the matter, dear?\r",
         "...\r",
-        "Wow.\n",
-        "That’s what happened to you?\r",
-        "You and {STRVAR_1 3, 0, 0} are lucky to have\n",
-        "met Prof. Rowan.\r",
-        "Imagine if you didn’t...\r",
-        "I wouldn’t like to think what the wild\n",
-        "Pokémon might have done to you two.\r",
-        "{STRVAR_1 3, 1, 0}, go see Prof. Rowan, and\n",
-        "thank him properly for your Pokémon.\r",
-        "His lab is in Sandgem Town, isn’t it?\r",
-        "Now that you have your own Pokémon,\n",
-        "the tall grass won’t be so threatening.\r"
+        "Wow.\r"
       ]
     },
     {
@@ -91,14 +74,7 @@
         "Going to Sandgem Town is like an\n",
         "adventure in itself, right?\r",
         "With those Running Shoes, you can\n",
-        "get to faraway places much faster.\r",
-        "OK...\n",
-        "Let me read the instructions...\r",
-        "“Press the B Button and dash\n",
-        "about faster than ever before!\r",
-        "“Put on the Running Shoes and\n",
-        "blaze new trails of adventure!”\r",
-        "Well, isn’t that just nifty!"
+        "get to faraway places much faster.\r"
       ]
     },
     {
@@ -174,9 +150,6 @@
       "id": "TwinleafTownPlayerHouse1F_Text_IWishICouldGoInstead",
       "en_US": [
         "Gee, a journey full of adventure...\n",
-        "I envy you, kiddo.\r",
-        "Plus, you’re not alone.\n",
-        "You have your Pokémon with you.\f",
         "I wish I could go instead!\r"
       ]
     },
@@ -186,13 +159,7 @@
         "I’m just joking, dear!\n",
         "Yup, {STRVAR_1 3, 0, 0}!\r",
         "I’ll be all right by myself, so you\n",
-        "go and enjoy your adventure!\r",
-        "When you’re exposed to new things,\n",
-        "and experience new sensations...\f",
-        "It makes your mother happy, too.\r",
-        "...But come back sometimes.\r",
-        "I would like to see the kinds of\n",
-        "Pokémon you’ve caught, dear.\r"
+        "go and enjoy your adventure!\r"
       ]
     },
     {
@@ -214,11 +181,7 @@
       "en_US": [
         "{STRVAR_1 3, 1, 0}’s mom: Oh...\n",
         "Then, he must have left already...\f",
-        "What to do...\r",
-        "That boy shouted about going on an\n",
-        "adventure, then he bolted.\r",
-        "He’s so headstrong and reckless...\n",
-        "I at least wanted him to take this...\r"
+        "What to do...\r"
       ]
     },
     {

@@ -60,13 +60,9 @@
       "en_US": [
         "Oh, that device you have...\r",
         "It is a Pokédex?\n",
-        "Wow, it brings back some memories.\r",
-        "Pardon me, but what’s your name?\r",
-        "...\r",
         "OK, hello, {STRVAR_1 3, 0, 0}.\n",
         "I’ll be sure to remember that name!\r",
-        "My name is Cynthia.\n",
-        "I’m a Trainer just like you.\r",
+        "My name is Cynthia.\r",
         "I’ve been studying Pokémon mythology\n",
         "lately, just out of curiosity.\r"
       ]
@@ -76,36 +72,20 @@
       "en_US": [
         "Here in Eterna City, there is a statue\n",
         "of an ancient Pokémon.\r",
-        "Have you seen it already?\r",
-        "According to myth, it was an extremely\n",
-        "powerful Pokémon.\r",
-        "Who knows? You may encounter something\n",
-        "like it while you’re traveling with your\f",
-        "Pokédex.\r",
-        "Oh, I know! Try using this.\n",
-        "It should be helpful.\r"
+        "Oh, I know! Try using this.\r"
       ]
     },
     {
       "id": "EternaCity_Text_RememberTheHiddenMoveCutCanBeUsedInTheField",
       "en_US": [
         "Cynthia: Remember, the hidden move\n",
-        "Cut can be used in the field.\r",
-        "It will let you go places that were\n",
-        "previously inaccessible to you.\r",
-        "That’s important for filling up your\n",
-        "Pokédex, right?\r",
-        "Then luck be with you, young Trainer!\r",
-        "Oh, there’s one last thing!\n",
-        "Please give my regards to Prof. Rowan.\r"
+        "Cut can be used in the field.\r"
       ]
     },
     {
       "id": "EternaCity_Text_IWantedYouToHaveThisPokemonEggWillYouAcceptIt",
       "en_US": [
         "Cynthia: Oh, there you are!\r",
-        "I was looking for you.\n",
-        "I’ve got something nice.\r",
         "I wanted you to have this Pokémon Egg.\n",
         "Will you accept it?"
       ]
@@ -123,12 +103,7 @@
       "en_US": [
         "Cynthia: Oh?\n",
         "You have six Pokémon with you already.\f",
-        "You don’t have room for this Egg.\r",
-        "You’ll have to store a Pokémon in a\n",
-        "PC Box at the Pokémon Center first.\r",
-        "I’ll give you this Egg when you’ve made\n",
-        "room for it.\r",
-        "I’ll be waiting right here."
+        "You don’t have room for this Egg.\r"
       ]
     },
     {
@@ -166,10 +141,6 @@
       "en_US": [
         "Cynthia: Keep that Egg with you in your\n",
         "party of Pokémon.\r",
-        "A Pokémon will hatch from it while you\n",
-        "are traveling.\r",
-        "I would be happy to know that it will\n",
-        "help fill another page of your Pokédex.\r",
         "See you again!\r"
       ]
     },
@@ -178,17 +149,6 @@
       "en_US": [
         "Hi! I’m Gardenia!\n",
         "I’m this town’s Gym Leader!\r",
-        "My last challenger was this awfully\n",
-        "speedy young guy.\r",
-        "...Actually, his name was {STRVAR_1 3, 0, 0}.\n",
-        "He told me about you.\r",
-        "He said that another challenger’s on\n",
-        "the way, so that made me antsy!\r",
-        "At my Gym, no one gets to battle with\n",
-        "the Gym Leader, me, until the end.\r",
-        "The challenger has to beat all the\n",
-        "other Gym Trainers first.\r",
-        "I’ll be waiting for you in the back,\n",
         "Trainer. Don’t disappoint me!\r"
       ]
     },
@@ -240,10 +200,7 @@
       "id": "EternaCity_Text_MyFriendSaidTeamGalacticTookHisFavoritePokemonAway",
       "en_US": [
         "My friend said Team Galactic took his\n",
-        "favorite Pokémon away.\r",
-        "I don’t think he’s telling the truth.\n",
-        "Team Galactic looks so cool.\f",
-        "They don’t look like common thugs."
+        "favorite Pokémon away.\r"
       ]
     },
     {

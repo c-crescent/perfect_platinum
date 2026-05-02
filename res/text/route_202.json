@@ -6,12 +6,7 @@
       "en_US": [
         "Dawn: {STRVAR_1 3, 1, 0}?!\r",
         "Did you tell your family that you’re\n",
-        "helping the professor?\r",
-        "...You didn’t, did you?\r",
-        "I know that you’re really eager to\n",
-        "see all kinds of Pokémon.\r",
-        "But you shouldn’t make your mom\n",
-        "worry that you’ve disappeared.\r"
+        "helping the professor?\r"
       ]
     },
     {
@@ -37,15 +32,6 @@
       "en_US": [
         "Dawn: Giggle...\n",
         "See? Isn’t it neat?\r",
-        "Actually, it’s better to lower your\n",
-        "target’s HP more than I did.\r",
-        "It’s important to get the Pokémon’s\n",
-        "HP down as low as possible.\r",
-        "This is because a healthy Pokémon\n",
-        "is very difficult to catch.\r",
-        "Oh, Pokémon also get easier to catch\n",
-        "if you make them sleep or something\f",
-        "by using a Pokémon’s move.\r",
         "OK, {STRVAR_1 3, 0, 0}, to get you\n",
         "started, I’ll give you five\f",
         "Poké Balls!\r"
@@ -67,12 +53,7 @@
       "en_US": [
         "Lucas: {STRVAR_1 3, 1, 0}?!\r",
         "Did you tell your family that you’re\n",
-        "helping the professor?\r",
-        "...I bet you didn’t, did you?\r",
-        "I know that you’re eager to\n",
-        "see all kinds of Pokémon.\r",
-        "But you shouldn’t make your mom\n",
-        "worry like that.\r"
+        "helping the professor?\r"
       ]
     },
     {
@@ -96,28 +77,14 @@
     {
       "id": "Route202_Text_LucasHereIllGiveYouFivePokeballsToGetYouStarted",
       "en_US": [
-        "Lucas: And that’s how it’s done.\r",
-        "Actually, I should have lowered the\n",
-        "target’s HP some more.\r",
-        "Yup, the important thing is to lower\n",
-        "the Pokémon’s HP as much as possible.\r",
-        "See, a healthy Pokémon isn’t easy to\n",
-        "catch.\r",
-        "Oh, yeah. They also get easier to\n",
-        "catch if you make one of your\f",
-        "Pokémon put them to sleep or such.\r",
-        "Here, {STRVAR_1 3, 0, 0}, I’ll give you\n",
-        "five Poké Balls to get you started.\r"
+        "Lucas: And that’s how it’s done.\r"
       ]
     },
     {
       "id": "Route202_Text_LucasSeeYouAround",
       "en_US": [
         "If you have lots of Pokémon with you,\n",
-        "you’ll be able to travel farther.\r",
-        "That way, you’ll have a better shot\n",
-        "at meeting more Pokémon.\r",
-        "See you around!\r"
+        "you’ll be able to travel farther.\r"
       ]
     },
     {
@@ -194,9 +161,7 @@
       "en_US": [
         "Lucas: {STRVAR_1 3, 0, 0}.\r",
         "Let me explain how the Poké Radar\n",
-        "works.\r",
-        "Let’s give it a go.\n",
-        "When you use the Poké Radar...\r"
+        "works.\r"
       ]
     },
     {
@@ -205,9 +170,7 @@
         "Lucas: There!\n",
         "Did you see the tall grass rustling?\r",
         "There’s a Pokémon in that patch of tall\n",
-        "grass.\r",
-        "Go in there, and the Pokémon will come\n",
-        "leaping out.\r"
+        "grass.\r"
       ]
     },
     {
@@ -216,10 +179,7 @@
         "Now, here’s the strange part.\r",
         "If you see another patch of rustling\n",
         "grass far away, it means the same kind\f",
-        "of Pokémon is hiding there.\r",
-        "So, if your aim is to keep seeing the\n",
-        "same kind of Pokémon, you should\f",
-        "consider using Repels.\r"
+        "of Pokémon is hiding there.\r"
       ]
     }
   ]

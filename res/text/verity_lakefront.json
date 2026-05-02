@@ -5,11 +5,7 @@
       "id": "VerityLakefront_Text_WereAtTheLake",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: All right!\n",
-        "We’re at the lake!\r",
-        "Get ready, because we’re capturing\n",
-        "that legendary Pokémon.\r",
-        "Trust me on this one. It’s here.\n",
-        "It even says so on the sign!\r"
+        "We’re at the lake!\r"
       ]
     },
     {
@@ -23,12 +19,7 @@
     {
       "id": "VerityLakefront_Text_LakeVerityAhead",
       "en_US": [
-        "Lake Verity Ahead\r",
-        "According to legend, this lake is home\n",
-        "to the Pokémon said to be “The Being of\f",
-        "Emotion.”\r",
-        "It is because of this Pokémon that\n",
-        "people can experience sorrow and joy."
+        "Lake Verity Ahead\r"
       ]
     }
   ]

@@ -17,26 +17,13 @@
       "en_US": [
         "{STRVAR_1 3, 0, 0}: ...\n",
         "...\r",
-        "What?\n",
-        "Don’t go into the grass, right?\f",
-        "No worries! No problem!\r",
-        "It doesn’t matter that we don’t have\n",
-        "any Pokémon.\r",
         "Trust me on this one.\n",
-        "I’ve got an idea!\r",
-        "Now listen. You know how wild Pokémon\n",
-        "jump out when you go into tall grass?\r"
+        "I’ve got an idea!\r"
       ]
     },
     {
       "id": "Route201_Text_ScootOverBeforeWildPokemonCanAppear",
       "en_US": [
-        "So, what you do is, you scoot over to\n",
-        "the next patch of grass before any\f",
-        "wild Pokémon can appear!\r",
-        "If we just keep dashing, we can get to\n",
-        "Sandgem Town without running into\f",
-        "wild Pokémon!\r",
         "OK, stick with me!\r"
       ]
     },
@@ -55,9 +42,7 @@
       "id": "Route201_Text_YouTwoDontHaveAnyPokemon",
       "en_US": [
         "Professor: You two don’t seem to have\n",
-        "any Pokémon between you?\r",
-        "Then, what is the meaning of going into\n",
-        "the tall grass?!\r"
+        "any Pokémon between you?\r"
       ]
     },
     {
@@ -71,8 +56,6 @@
       "id": "Route201_Text_ProfessorEllipsis",
       "en_US": [
         "Professor: ...\n",
-        "...\r",
-        "...\n",
         "...\r"
       ]
     },
@@ -80,25 +63,13 @@
       "id": "Route201_Text_ThisIsProfRowanIsntIt",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Hey, {STRVAR_1 3, 1, 0}.\n",
-        "This old guy...\r",
-        "It’s Prof. Rowan, isn’t it?\n",
-        "What’s he doing here...?\r"
+        "This old guy...\r"
       ]
     },
     {
       "id": "Route201_Text_HmmWhatToDo",
       "en_US": [
         "Professor: ...\n",
-        "...\r",
-        "They tried to go into the tall grass\n",
-        "because they wanted Pokémon...\r",
-        "Hmm...\n",
-        "What to do...?\r",
-        "Their world would surely change if\n",
-        "they were to meet Pokémon...\r",
-        "Is it right for me to put them on that\n",
-        "path...?\r",
-        "...\n",
         "...\r"
       ]
     },
@@ -106,7 +77,7 @@
       "id": "Route201_Text_YouTrulyLovePokemonDoYou",
       "en_US": [
         "You two.\n",
-        "You truly love Pokémon, do you?"
+        "You truly love Pokémon, do you? \r"
       ]
     },
     {
@@ -145,10 +116,8 @@
       "id": "Route201_Text_TheAnswerWillNeverChange",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: What?!\n",
-        "You can ask a hundred times!\f",
         "The answer will never change!\r",
-        "We’ll both answer a hundred times,\n",
-        "we love Pokémon!\r"
+        "We love Pokémon!\r"
       ]
     },
     {
@@ -167,9 +136,7 @@
       "en_US": [
         "Professor: ...A pair of reckless kids\n",
         "who foolishly try to enter tall grass\f",
-        "without Pokémon of their own...?\r",
-        "It worries me what people like that\n",
-        "would do with Pokémon.\r"
+        "without Pokémon of their own...?\r"
       ]
     },
     {
@@ -178,11 +145,7 @@
         "{STRVAR_1 3, 0, 0}: ...Uh...\n",
         "Well, I, uh...\r",
         "...\n",
-        "...\r",
-        "Well, then forget about me, but give\n",
-        "a Pokémon to my friend here!\r",
-        "I mean, it was me who tried to go into\n",
-        "the tall grass and all...\r"
+        "...\r"
       ]
     },
     {
@@ -191,15 +154,7 @@
         "Professor: !\r",
         "How big of you...\r",
         "Very well, then!\n",
-        "I will entrust you two with Pokémon!\r",
-        "I apologize for putting you through\n",
-        "that exercise.\r",
-        "However!\r",
-        "You must promise me that you will never\n",
-        "recklessly endanger yourselves again.\r",
-        "Now, then...\r",
-        "Hm?\n",
-        "Now, where...?\r"
+        "I will entrust you two with Pokémon!\r"
       ]
     },
     {
@@ -268,11 +223,7 @@
         "Rowan: Hm!\r",
         "We exist side by side with Pokémon.\r",
         "There comes a time when people should\n",
-        "meet Pokémon.\r",
-        "There is a world that should be\n",
-        "explored together.\r",
-        "For them, today is that time.\n",
-        "The place, right here.\r"
+        "meet Pokémon.\r"
       ]
     },
     {
@@ -325,14 +276,7 @@
       "id": "Route201_Text_IHopeYoullDoWellTogether",
       "en_US": [
         "Rowan: Very well! Both of you have\n",
-        "chosen a good Pokémon, it seems.\r",
-        "Now, listen well!\r",
-        "The Pokémon you have been entrusted\n",
-        "with are unfamiliar with the world.\r",
-        "In that regard, they’re much\n",
-        "like you.\r",
-        "As fellow newcomers to the world,\n",
-        "I hope you’ll do well together.\r"
+        "chosen a good Pokémon, it seems.\r"
       ]
     },
     {
@@ -420,34 +364,14 @@
       "id": "Route201_Text_IWonLetsGoHome",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Aha...\n",
-        "Ahaha... I won? I won!\r",
-        "But that battle, it could’ve gone\n",
-        "either way. It was that close!\r",
-        "I can tell you one thing: battling is\n",
-        "awesomely fun!\r",
-        "OK, let’s go home.\r",
-        "I’m beat after that battle.\n",
-        "My Pokémon needs rest, too.\r",
-        "See ya, {STRVAR_1 3, 1, 0}!\r"
+        "Ahaha... I won? I won!\r"
       ]
     },
     {
       "id": "Route201_Text_LetsCatchThatLegendaryPokemon",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Too slow!\n",
-        "{STRVAR_1 3, 1, 0}, I’m sick of waiting!\r",
-        "I’m going to go see Prof. Rowan, so I\n",
-        "can thank him properly.\r",
-        "So, I had this great idea.\n",
-        "Listen up, OK?\r",
-        "You know that lake where we always\n",
-        "play at?\r",
-        "You know how they say a legendary\n",
-        "Pokémon lives there?\r",
-        "You guessed it!\n",
-        "Let’s catch that Pokémon.\r",
-        "That’ll make Prof. Rowan happy.\n",
-        "I’m sure of that!\r"
+        "{STRVAR_1 3, 1, 0}, I’m sick of waiting!\r"
       ]
     },
     {
@@ -487,16 +411,8 @@
       "en_US": [
         "Hi!\n",
         "I work at a Pokémon Mart.\r",
-        "Did you know that a Pokémon’s health\n",
-        "is measured by Hit Points (HP)?\r",
-        "If a Pokémon runs out of HP, it\n",
-        "faints and can’t battle anymore.\r",
-        "If a Pokémon’s HP gets low, you\n",
-        "should heal it with a Potion.\r",
         "Here, let me give you a Potion as\n",
-        "a free sample. First one’s free!\r",
-        "It will automatically go in the\n",
-        "Medicine Pocket of your Bag.\r"
+        "a free sample. First one’s free!\r"
       ]
     },
     {
