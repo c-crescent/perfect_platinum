@@ -5,6 +5,7 @@
 - Barry will no longer ask for a battle after receiving your starter
 - HMs can now be deleted normally
 - B now toggles autorun
+- Nature Stat Colors in Summary Screen
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
