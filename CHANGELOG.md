@@ -8,6 +8,9 @@
 - Nature Stat Colors in Summary Screen
 - IVs & EVs in Summary Screen
 - TMs are reusable
+- Minimum walking encounter rate is now 5%
+- Minimum surfing encounter rate is now 10%
+- Fishing encounter rate changed to match surfing
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
