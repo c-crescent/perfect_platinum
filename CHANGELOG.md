@@ -7,6 +7,7 @@
 - B now toggles autorun
 - Nature Stat Colors in Summary Screen
 - IVs & EVs in Summary Screen
+- TMs are reusable
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
