@@ -8,3 +8,4 @@
 - Abilities now properly increase fishing encounter rates
 - Fire Fang no longer automatically bypasses Wonder Guard
 - Using a non-Rage Move After Rage no longer Clears Every Volatile Status Except Rage
+- Defog HM No Longer Uses Water Palette
