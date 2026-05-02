@@ -340,7 +340,7 @@ Route201_CounterpartLeave:
     ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalRunToPlayerForBattle
     ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceRivalForBattle
     WaitMovement
-    GoTo Route201_AskUpForABattle
+    GoTo Route201_HandleRivalBattleEnd
     End
 
 Route201_AskUpForABattle:
@@ -376,9 +376,6 @@ Route201_StartFirstBattleChimchar:
     GoTo Route201_HandleRivalBattleEnd
 
 Route201_HandleRivalBattleEnd:
-    CheckWonBattle VAR_RESULT
-    GoToIfEq VAR_RESULT, FALSE, Route201_RivalWonLetsGoHome
-    LockObject LOCALID_RIVAL
     BufferRivalName 0
     BufferPlayerName 1
     Message Route201_Text_WhewLetsGoHome
