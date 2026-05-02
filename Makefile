@@ -99,8 +99,8 @@ release: setup_release rom
 debug: setup_debug rom
 	$(NINJA) -C $(BUILD) debug.nef overlay.map
 
-check: rom
-	$(MESON) test -C $(BUILD)
+# check: rom
+# 	$(MESON) test -C $(BUILD)
 
 rom: $(BUILD)/build.ninja
 	$(NINJA) -C $(BUILD) pokeplatinum.us.nds

@@ -196,34 +196,25 @@
       "id": "Route201_Text_ThereItIsNiceWorkLucas",
       "en_US": [
         "Rowan: Ah! There it is!\n",
-        "Lucas, nice work.\r",
-        "What I was about to do was to entrust\n",
-        "these two with their own Pokémon.\r"
+        "Lucas, nice work.\r"
       ]
     },
     {
       "id": "Route201_Text_DawnThosePokemonAreHardToReplace",
       "en_US": [
-        "Dawn: Pardon?!\r",
-        "Those Pokémon are hard to replace.\n",
-        "Are you sure about giving them away?\r"
+        "Dawn: Pardon?!\r"
       ]
     },
     {
       "id": "Route201_Text_LucasThosePokemonAreCrucial",
       "en_US": [
-        "Lucas: Wha...?!\r",
-        "Those Pokémon are crucial.\n",
-        "You’re giving them away?\r"
+        "Lucas: Wha...?!\r"
       ]
     },
     {
       "id": "Route201_Text_PeopleShouldMeetPokemon",
       "en_US": [
-        "Rowan: Hm!\r",
-        "We exist side by side with Pokémon.\r",
-        "There comes a time when people should\n",
-        "meet Pokémon.\r"
+        "Rowan: Hm!\r"
       ]
     },
     {
@@ -243,19 +234,14 @@
     {
       "id": "Route201_Text_ICantBelieveIt",
       "en_US": [
-        "{STRVAR_1 3, 0, 0}: Really?!\n",
-        "Prof. Rowan!\r",
-        "I can’t believe it! I’m so happy now\n",
-        "that I can’t keep a straight face!\r"
+        "{STRVAR_1 3, 0, 0}: Really?!\n"
       ]
     },
     {
       "id": "Route201_Text_YouCanChooseFirst",
       "en_US": [
         "Hey, {STRVAR_1 3, 1, 0}.\n",
-        "You can choose first.\r",
-        "Hey, I’m practically a grown-up.\n",
-        "I have to show some class here."
+        "You can choose first.\r"
       ]
     },
     {
@@ -297,8 +283,7 @@
     {
       "id": "Route201_Text_DawnPleaseLetMePass",
       "en_US": [
-        "I’m sorry...\n",
-        "Please let me pass.\r"
+        "Let me pass.\r"
       ]
     },
     {
@@ -315,17 +300,12 @@
     {
       "id": "Route201_Text_ProfRowansReallyNice",
       "en_US": [
-        "{STRVAR_1 3, 0, 0}: How do you like that?\n",
-        "Prof. Rowan’s really nice.\r",
-        "On TV, he seems so stern and scary.\r"
+        "{STRVAR_1 3, 0, 0}: How do you like that?\n"
       ]
     },
     {
       "id": "Route201_Text_OnlyOneThingToDo",
       "en_US": [
-        "Heheh, {STRVAR_1 3, 1, 0}!\n",
-        "We’ve both got Pokémon now.\r",
-        "There’s only one thing to do, right?\n",
         "Are you up for this?\r"
       ]
     },
@@ -344,9 +324,6 @@
       "id": "Route201_Text_IChallengeYouToABattle",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: I’ve always wanted to\n",
-        "say this...\r",
-        "The time has finally come!\r",
-        "{STRVAR_1 3, 1, 0}!\n",
         "I challenge you to a battle!\r"
       ]
     },
@@ -354,9 +331,6 @@
       "id": "Route201_Text_WhewLetsGoHome",
       "en_US": [
         "{STRVAR_1 3, 0, 0}: Whew!\n",
-        "Let’s go home.\r",
-        "I’m beat after that battle.\n",
-        "My Pokémon needs rest, too.\r",
         "See ya, {STRVAR_1 3, 1, 0}!\r"
       ]
     },
@@ -399,11 +373,7 @@
       "id": "Route201_Text_WildPokemonLurkInTallGrass",
       "en_US": [
         "Wild Pokémon lurk in tall grass. They\n",
-        "can come bursting out at any time.\r",
-        "So, if you’re wanting to battle wild\n",
-        "Pokémon, just walk in tall grass.\r",
-        "If you want to avoid wild Pokémon,\n",
-        "then stay out of the tall grass."
+        "can come bursting out at any time.\r"
       ]
     },
     {
@@ -464,9 +434,7 @@
       "en_US": [
         "Trainer Tips!\r",
         "Don’t be shy! Talk to anyone and\n",
-        "everyone you happen to see.\r",
-        "By talking to people, you will get\n",
-        "invaluable information and advice."
+        "everyone you happen to see.\r"
       ]
     }
   ]
