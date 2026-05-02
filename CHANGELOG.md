@@ -6,6 +6,7 @@
 - HMs can now be deleted normally
 - B now toggles autorun
 - Nature Stat Colors in Summary Screen
+- IVs & EVs in Summary Screen
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
