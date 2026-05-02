@@ -6,3 +6,4 @@
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
+- Fire Fang no longer automatically bypasses Wonder Guard
