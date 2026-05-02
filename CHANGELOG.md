@@ -4,6 +4,7 @@
 - Shortened the intro cutscene
 - Barry will no longer ask for a battle after receiving your starter
 - HMs can now be deleted normally
+- B now toggles autorun
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates

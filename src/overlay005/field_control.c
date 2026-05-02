@@ -124,6 +124,12 @@ void FieldInput_Update(FieldInput *input, FieldSystem *fieldSystem, u16 pressedK
     input->pressedKeys = pressedKeys;
     input->heldKeys = heldKeys;
 
+    PlayerData *playerData = PlayerAvatar_PlayerData(fieldSystem->playerAvatar);
+ 
+    if (pressedKeys & PAD_BUTTON_B && PlayerData_HasRunningShoes(playerData)) {
+        PlayerData_SetAutoRun(playerData, !PlayerData_GetAutoRun(playerData));
+    }
+
     if (moveState == PLAYER_MOVE_STATE_END || moveState == PLAYER_MOVE_STATE_NONE) {
         if (pressedKeys & PAD_BUTTON_X) {
             input->menu = TRUE;
