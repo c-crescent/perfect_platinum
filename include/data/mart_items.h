@@ -12,7 +12,7 @@ typedef struct {
 } PokeMartCommonItem;
 
 const PokeMartCommonItem PokeMartCommonItems[] = {
-    { ITEM_POKE_BALL, 0x1 },
+    { ITEM_MASTER_BALL, 0x1 },
     { ITEM_GREAT_BALL, 0x3 },
     { ITEM_ULTRA_BALL, 0x4 },
     { ITEM_POTION, 0x1 },
@@ -30,7 +30,8 @@ const PokeMartCommonItem PokeMartCommonItems[] = {
     { ITEM_ESCAPE_ROPE, 0x2 },
     { ITEM_REPEL, 0x2 },
     { ITEM_SUPER_REPEL, 0x3 },
-    { ITEM_MAX_REPEL, 0x4 }
+    { ITEM_MAX_REPEL, 0x4 },
+    { ITEM_RARE_CANDY, 0x1 }
 };
 
 const u16 JubilifeMartSpecialties[] = {
