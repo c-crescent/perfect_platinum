@@ -22,9 +22,7 @@
       "en_US": [
         "Dawn: Oh, that’s right!\r",
         "{STRVAR_1 3, 1, 0}, I haven’t shown you\n",
-        "how to catch a Pokémon.\r",
-        "I’ll demonstrate how to catch \n",
-        "one, so just watch me, OK?\r"
+        "how to catch a Pokémon.\r"
       ]
     },
     {
@@ -41,11 +39,7 @@
       "id": "Route202_Text_DawnByeNow",
       "en_US": [
         "If you have lots of Pokémon with you,\n",
-        "it will be safer on long trips.\r",
-        "Plus, it will be a lot more fun\n",
-        "having your Pokémon friends along.\r",
-        "OK, I need to get going.\n",
-        "Bye, now!\r"
+        "it will be safer on long trips.\r"
       ]
     },
     {
@@ -61,8 +55,7 @@
       "en_US": [
         "Lucas: Why don’t you go tell your\n",
         "family that the professor asked for\f",
-        "your help?\r",
-        "You should do it right away.\r"
+        "your help?\r"
       ]
     },
     {
@@ -116,31 +109,21 @@
       "en_US": [
         "Trainer Tips!\r",
         "All Pokémon that are involved in\n",
-        "a battle earn Exp. Points!\r",
-        "The more your Pokémon battle,\n",
-        "the stronger they will become."
+        "a battle earn Exp. Points!\r"
       ]
     },
     {
       "id": "Route202_Text_DawnLetMeShowYouHowThePokeRadarWorks",
       "en_US": [
         "Dawn: Hi, {STRVAR_1 3, 0, 0}!\n",
-        "I was waiting for you.\r",
-        "Let me show you how the Poké Radar\n",
-        "works.\r",
-        "Let’s not waste any time.\n",
-        "So, when you use the Poké Radar...\r"
+        "I was waiting for you.\r"
       ]
     },
     {
       "id": "Route202_Text_DawnTheresAPokemonInThatPatchOfTallGrass",
       "en_US": [
         "Dawn: See?\n",
-        "Did you notice the tall grass rustling?\r",
-        "There’s a Pokémon in that patch of tall\n",
-        "grass.\r",
-        "If you go there, the Pokémon will\n",
-        "come bursting out.\r"
+        "Did you notice the tall grass rustling?\r"
       ]
     },
     {
@@ -148,12 +131,7 @@
       "en_US": [
         "Now, this is where it gets interesting.\r",
         "If you see another patch of rustling\n",
-        "grass some distance away, go into it.\r",
-        "You’ll see the same kind of Pokémon\n",
-        "as before.\r",
-        "If you want to keep meeting the same\n",
-        "kind of Pokémon, you should maybe\f",
-        "use some Repels.\r"
+        "grass some distance away, go into it.\r"
       ]
     },
     {

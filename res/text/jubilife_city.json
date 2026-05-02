@@ -22,20 +22,14 @@
       "en_US": [
         "...Um...\r",
         "I think you’d feel a lot safer if you\n",
-        "were to catch some more.\r",
-        "You know, like when you need to travel\n",
-        "to faraway places.\r"
+        "were to catch some more.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_DawnFollowMe",
       "en_US": [
         "Oh, I know! Don’t you think it’s\n",
-        "better to know more about Pokémon?\r",
-        "Sure it is!\n",
-        "I know just the place.\r",
-        "Come on!\n",
-        "Don’t be shy. Follow me!\r"
+        "better to know more about Pokémon?\r"
       ]
     },
     {
@@ -56,22 +50,14 @@
       "id": "JubilifeCity_Text_LucasIThinkYouShouldCatchSomeMore",
       "en_US": [
         "Huh?\n",
-        "I think you should catch some more.\r",
-        "It might be more of a challenge\n",
-        "raising a lot of Pokémon...\r",
-        "But it’s worth it. The more Pokémon\n",
-        "you have, the happier you’ll be.\r"
+        "I think you should catch some more.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_LucasFollowMe",
       "en_US": [
         "Hey, that’s right! Don’t you think it’s\n",
-        "better to know more about Pokémon?\r",
-        "Sure it is!\n",
-        "There’s this great place for that.\r",
-        "Come on! It’s all right.\n",
-        "Follow me.\r"
+        "better to know more about Pokémon?\r"
       ]
     },
     {
@@ -126,14 +112,7 @@
       "id": "JubilifeCity_Text_IKnowBetterNotToBelieveThat",
       "en_US": [
         "Shady man: ...Heh. You claim you were\n",
-        "only making conversation, do you?\r",
-        "But, I know better not to believe that.\n",
-        "No, no, no.\r",
-        "You recognized right away that I was\n",
-        "someone extraordinary.\r",
-        "That is why you spoke to me, is it not?\n",
-        "Your power of observation is fearsome!\r",
-        "Quite admirable, you are!\r"
+        "only making conversation, do you?\r"
       ]
     },
     {
@@ -141,14 +120,7 @@
       "en_US": [
         "Now that my cover has been blown, let\n",
         "me introduce myself.\r",
-        "I am a globe-trotting elite of the\n",
-        "International Police.\r",
-        "My name... Ah, no, I shall inform you\n",
-        "only of my code name.\r",
-        "My code name, it is Looker.\n",
-        "It is what they all call me.\r",
-        "Incidentally, is the saying, “Don’t be\n",
-        "a thief!” familiar to you?"
+        "My code name, it is Looker.\r"
       ]
     },
     {
@@ -161,48 +133,27 @@
     {
       "id": "JubilifeCity_Text_YouClaimToNotKnowIt",
       "en_US": [
-        "Looker: No? You claim to not know it?\n",
-        "How could that be?\r",
-        "Perhaps your mama has said it, but you\n",
-        "have forgotten it, like usual?\r",
-        "Now listen, my friends. It is wrong to\n",
-        "take what belongs to others.\r"
+        "Looker: No? You claim to not know it?\n"
       ]
     },
     {
       "id": "JubilifeCity_Text_PerhapsYouCanMakeUseOfThis",
       "en_US": [
         "Unfortunately, there are apparently\n",
-        "those who do not heed those words.\r",
-        "In Sinnoh, in fact, there are criminals\n",
-        "stealing the Pokémon of others.\r",
-        "I have, therefore, been on the lookout\n",
-        "for characters arousing my suspicion.\r",
-        "Incidentally, you are Trainers, yes?\n",
-        "Perhaps you can make use of this?\r"
+        "those who do not heed those words.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_ThatVsRecorderItIsANiftyDeviceForRecordingAMatch",
       "en_US": [
         "That Vs. Recorder, it is a nifty device\n",
-        "for recording a match.\r",
-        "I obtained it because it is quite popular\n",
-        "these days.\r",
-        "But myself, I do not do Pokémon\n",
-        "battling very often.\r",
-        "It will be in better hands with you.\r"
+        "for recording a match.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_YouMustInformMeOfAnyHappenings",
       "en_US": [
         "Looker: Also, I have a request.\r",
-        "If you were to see me again, I ask that\n",
-        "you not talk to me, for I am on duty.\r",
-        "...Actually, yes, yes, you may speak to\n",
-        "me. You must.\r",
-        "Not because I am lonely, no, no!\n",
         "You must inform me of bad guys!\f",
         "You must inform me of any happenings!\r"
       ]
@@ -267,24 +218,14 @@
       "id": "JubilifeCity_Text_HaveYouPaidAVisitToTheTVStation",
       "en_US": [
         "Hello! Let me ask you, have you paid\n",
-        "a visit to the TV station?\r",
-        "If you’ve never been, you owe it to\n",
-        "yourself to make the trip.\r",
-        "And, if you’ve been there before,\n",
-        "it never hurts to visit again.\r",
-        "After all, you can be a star!\n",
-        "Or at least dream of being one!"
+        "a visit to the TV station?\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_ItIsYouHaveYouVisitedTheTrainersSchool",
       "en_US": [
         "Ah, it is you! Have no fear.\n",
-        "There are no shady characters about.\r",
-        "Incidentally, have you visited the\n",
-        "Trainers’ School?\r",
-        "Did your friend not guide you there\n",
-        "earlier?"
+        "There are no shady characters about.\r"
       ]
     },
     {
@@ -300,11 +241,7 @@
       "id": "JubilifeCity_Text_ItIsYouHaveYouNotObtainedAPoketch",
       "en_US": [
         "Ah, it is you! Have no fear.\n",
-        "There are no shady characters about.\r",
-        "Incidentally, have you not obtained\n",
-        "a Pokétch?\r",
-        "I believe a Pokétch is now free in\n",
-        "exchange for some Coupons?"
+        "There are no shady characters about.\r"
       ]
     },
     {
@@ -320,11 +257,7 @@
       "id": "JubilifeCity_Text_ItIsYouHaveYouNotObtainedAGymBadge",
       "en_US": [
         "Ah, it is you! Have no fear.\n",
-        "There are no shady characters about.\r",
-        "Incidentally, have you not obtained\n",
-        "a Gym Badge?\r",
-        "I believe you receive one for defeating\n",
-        "the Gym Leader at a Pokémon Gym?"
+        "There are no shady characters about.\r"
       ]
     },
     {
@@ -340,46 +273,26 @@
       "id": "JubilifeCity_Text_ISeeThatYouHaveObtainedItAPalPadForYourself",
       "en_US": [
         "Ah, yes. I see that you have obtained\n",
-        "it, a Pal Pad for yourself.\r",
-        "I myself, a member of the International\n",
-        "Police, the fighters of crime around the\f",
-        "world, have one also.\r",
-        "For it is what one must have to trade\n",
-        "Pokémon with Trainers around the world.\r",
-        "Take that Pal Pad to the Global Terminal\n",
-        "for trading on an international level!\r"
+        "it, a Pal Pad for yourself.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_IShallTakeMyInvestigationElsewhere",
       "en_US": [
         "Anyway, there appears to be no one\n",
-        "shady in this Jubilife City.\r",
-        "I shall therefore take my investigation\n",
-        "elsewhere.\r",
-        "But, my friend, I suggest you remain\n",
-        "vigilant for shady grown-ups!\r"
+        "shady in this Jubilife City.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_YouCallYourselfAPokemonTrainerAndYetYouHaveNoPoketch",
       "en_US": [
         "Oh, oh, oh?\r",
-        "You call yourself a Pokémon Trainer?\n",
-        "And yet you have no Pokétch?\r",
-        "That is, Pokémon Watch, or Pokétch\n",
-        "for short!\r",
-        "Oh my, you are a rare case\n",
-        "indeed!\r"
+        "You call yourself a Pokémon Trainer?\n"
       ]
     },
     {
       "id": "JubilifeCity_Text_AllYouHaveToDoIsFindThreeClownsInJubilifeCity",
       "en_US": [
-        "You see, I invented, and now\n",
-        "manufacture, Pokétches.\r",
-        "Not only that, I’m now conducting\n",
-        "the Pokétch promotional campaign!\r",
         "All you have to do is find three\n",
         "clowns in Jubilife City.\r",
         "If you can find them...\n",
@@ -390,20 +303,12 @@
       "id": "JubilifeCity_Text_CollectACouponFromEachClownThenComeSeeMeOK",
       "en_US": [
         "The three clowns will each ask you\n",
-        "a skill-testing question.\r",
-        "The questions will all have to do\n",
-        "with Pokémon.\r",
-        "After all, a Pokétch is a tool for\n",
-        "Pokémon Trainers.\r",
-        "Collect a Coupon from each clown,\n",
-        "then come see me, OK?"
+        "a skill-testing question.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_InReturnForTheseCouponsIPresentYouThisPokemonWatch",
       "en_US": [
-        "OK, let me count your Coupons!\n",
-        "I’ll use the Pokétch here...\r",
         "One, two, three!\n",
         "Bravo! I say, bravo!\r",
         "In return for these Coupons,\n",
@@ -562,44 +467,27 @@
     {
       "id": "JubilifeCity_Text_YouShouldStickAround",
       "en_US": [
-        "Hi, there. You should stick around.\n",
-        "We’re doing a Pokétch campaign soon.\r",
-        "Before it starts, I think you should\n",
-        "brush up at the Trainers’ School."
+        "Hi, there. You should stick around.\n"
       ]
     },
     {
       "id": "JubilifeCity_Text_APokemonMayHoldASingleItem2",
       "en_US": [
-        "A Pokémon may hold a single item.\r",
-        "Some items become effective as soon\n",
-        "as they are held by Pokémon.\r",
-        "Berries are eaten by Pokémon as\n",
-        "necessary during battle."
+        "A Pokémon may hold a single item.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_HandOverAllYourResearchFindings",
       "en_US": [
         "Mystery man: Now, now, now, now, now!\n",
-        "Professor Rowan, you must comply.\r",
-        "Hand over all your research findings.\n",
-        "For free, naturally.\r",
-        "Failure to comply will result in a painful\n",
-        "time for your assistant.\r"
+        "Professor Rowan, you must comply.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_ThatsOreburghsGymBadgeISee",
       "en_US": [
         "Rowan: Ah, {STRVAR_1 3, 0, 0}.\n",
-        "Well? How is the Pokédex progressing?\r",
-        "Hm!\n",
-        "That’s Oreburgh’s Gym Badge, I see.\r",
-        "But hadn’t I given you your first\n",
-        "Pokémon only recently...?\r",
-        "Perhaps being a Trainer is like second\n",
-        "nature to you.\r"
+        "That’s Oreburgh’s Gym Badge, I see.\r"
       ]
     },
     {
@@ -616,20 +504,7 @@
     {
       "id": "JubilifeCity_Text_WhyMustYouBeSuchANuisance",
       "en_US": [
-        "Rowan: Quiet, you lot!\n",
-        "Why must you be such a nuisance?\r",
-        "Let me list some lessons you still\n",
-        "need to learn.\r",
-        "#1: Don’t loiter about for no good\n",
-        "reason.\r",
-        "#2: Don’t interrupt others while they\n",
-        "are attempting to converse.\r",
-        "#3: If you don’t get your way, don’t\n",
-        "raise your voice to be intimidating.\r",
-        "#4: Don’t think you’ve grown strong\n",
-        "just because you’re in a group.\r",
-        "#5: What is with those outlandish\n",
-        "outfits you have on?\r"
+        "Rowan: Quiet, you lot!\n"
       ]
     },
     {
@@ -645,11 +520,7 @@
       "id": "JubilifeCity_Text_WeWillMakeYouRegretInsultingTeamGalactic",
       "en_US": [
         "Mystery man: Eeeeeh!\n",
-        "You had to make this personal!\r",
-        "You have forced our hand into making\n",
-        "a show of force!\r",
-        "We will make you regret insulting\n",
-        "Team Galactic!\r"
+        "You had to make this personal!\r"
       ]
     },
     {
@@ -686,15 +557,7 @@
       "id": "JubilifeCity_Text_ThatLotTheyCalledThemselvesTeamGalactic",
       "en_US": [
         "Rowan: That lot...\n",
-        "They called themselves Team Galactic.\r",
-        "When Pokémon evolve, they seem to\n",
-        "release some type of energy...\r",
-        "However, I believe that it’s a mystic\n",
-        "power far beyond our control.\r",
-        "But Team Galactic seems to be studying\n",
-        "that power’s potential.\r",
-        "They want to know if it can be used as\n",
-        "energy for something...\r"
+        "They called themselves Team Galactic.\r"
       ]
     },
     {
@@ -702,13 +565,7 @@
       "en_US": [
         "Dawn: {STRVAR_1 3, 1, 0}, did you know?\r",
         "The professor studies the evolution\n",
-        "of Pokémon, too.\r",
-        "According to his research, 90% of all\n",
-        "Pokémon are somehow tied to evolution!\r",
-        "Well, maybe that’s the reason those\n",
-        "people tried to take the professor’s\f",
-        "research data by force.\r",
-        "That’s really unforgivable!\r"
+        "of Pokémon, too.\r"
       ]
     },
     {
@@ -717,47 +574,20 @@
         "Lucas: {STRVAR_1 3, 1, 0}, did you know\n",
         "about this?\r",
         "The professor studies the\n",
-        "evolution of Pokémon, too.\r",
-        "According to his research, 90% of all\n",
-        "Pokémon are somehow tied to evolution!\r",
-        "Maybe that’s the reason those goons\n",
-        "tried to take the professor’s\f",
-        "research data.\f",
-        "They’re not allowed to do that!\r"
+        "evolution of Pokémon, too.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_WhyDontYouCollectAllTheGymBadgesOfSinnoh",
       "en_US": [
         "Rowan: It’s all over, so you can \n",
-        "relax now.\r",
-        "Still, thanks to you two, nothing came\n",
-        "of that situation. I appreciate that.\r",
-        "Incidentally, {STRVAR_1 3, 0, 0}.\n",
-        "Kudos to you for your battling skill.\r",
-        "It got me thinking. Why don’t you\n",
-        "collect all the Gym Badges of Sinnoh?\r",
-        "Doing so, you will be sure to encounter\n",
-        "lots of Pokémon.\r",
-        "That, of course, means your Pokédex\n",
-        "pages will continuously fill up.\r",
-        "In other words, it will be of great help\n",
-        "to my research.\r",
-        "That said, I’ve given you your first\n",
-        "Pokémon and Pokédex as yours to keep.\r",
-        "You’re free to do with them as you wish.\n",
-        "Take care now.\r"
+        "relax now.\r"
       ]
     },
     {
       "id": "JubilifeCity_Text_OhThatWasVeryGood",
       "en_US": [
-        "Oh, that was very good!\n",
-        "Nicely done! Truly excellent!\r",
-        "Oh, I beg your pardon, I’m from\n",
-        "Jubilife TV!\r",
-        "I’d like you to have something for\n",
-        "letting me see that smashing battle!\r"
+        "Oh, that was very good!\r"
       ]
     },
     {
