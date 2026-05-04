@@ -11,9 +11,17 @@
 - Minimum walking encounter rate is now 5%
 - Minimum surfing encounter rate is now 10%
 - Fishing encounter rate changed to match surfing
+- All 493 Pokemon and their variants available to catch in a single save file without trading (WIP)
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
 - Fire Fang no longer automatically bypasses Wonder Guard
 - Using a non-Rage Move After Rage no longer Clears Every Volatile Status Except Rage
 - Defog HM No Longer Uses Water Palette
+
+# Balancing
+- Pokemon
+- Items
+- Abilities
+- Moves
+- Trainers (heavily based on Pokemon Renegade Platinum)

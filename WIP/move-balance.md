@@ -1,0 +1,479 @@
+- [ ] Barrage
+- [ ] Bide
+- [ ] Bind
+- [ ] Body Slam
+- [ ] Comet Punch
+- [ ] Constrict
+- [ ] Covet
+- [ ] Crush Claw
+- [ ] Crush Grip
+- [ ] Cut
+- [ ] Dizzy Punch
+- [ ] Double Hit
+- [ ] Double Slap
+- [ ] Double-Edge
+- [ ] Egg Bomb
+- [ ] Endeavor
+- [ ] Explosion
+- [ ] Extreme Speed
+- [ ] Facade
+- [ ] Fake Out
+- [ ] False Swipe
+- [ ] Feint
+- [ ] Flail
+- [ ] Frustration
+- [ ] Fury Attack
+- [ ] Fury Swipes
+- [ ] Giga Impact
+- [ ] Guillotine
+- [ ] Headbutt
+- [ ] Horn Attack
+- [ ] Horn Drill
+- [ ] Hyper Fang
+- [ ] Last Resort
+- [ ] Mega Kick
+- [ ] Mega Punch
+- [ ] Natural Gift
+- [ ] Pay Day
+- [ ] Pound
+- [ ] Present
+- [ ] Quick Attack
+- [ ] Rage
+- [ ] Rapid Spin
+- [ ] Return
+- [ ] Rock Climb
+- [ ] Scratch
+- [ ] Secret Power
+- [ ] Self-Destruct
+- [ ] Skull Bash
+- [ ] Slam
+- [ ] Slash
+- [ ] Smelling Salts
+- [ ] Spike Cannon
+- [ ] Stomp
+- [ ] Strength
+- [ ] Struggle
+- [ ] Super Fang
+- [ ] Tackle
+- [ ] Take Down
+- [ ] Thrash
+- [ ] Vise Grip
+- [ ] Wrap
+- [ ] Arm Thrust
+- [ ] Brick Break
+- [ ] Close Combat
+- [ ] Counter
+- [ ] Cross Chop
+- [ ] Double Kick
+- [ ] Drain Punch
+- [ ] Dynamic Punch
+- [ ] Focus Punch
+- [ ] Force Palm
+- [ ] Hammer Arm
+- [ ] High Jump Kick
+- [ ] Jump Kick
+- [ ] Karate Chop
+- [ ] Low Kick
+- [ ] Mach Punch
+- [ ] Revenge
+- [ ] Reversal
+- [ ] Rock Smash
+- [ ] Rolling Kick
+- [ ] Seismic Toss
+- [ ] Sky Uppercut
+- [ ] Submission
+- [ ] Superpower
+- [ ] Triple Kick
+- [ ] Vital Throw
+- [ ] Wake-Up Slap
+- [ ] Aerial Ace
+- [ ] Bounce
+- [ ] Brave Bird
+- [ ] Drill Peck
+- [ ] Fly
+- [ ] Peck
+- [ ] Pluck
+- [ ] Sky Attack
+- [ ] Wing Attack
+- [ ] Cross Poison
+- [ ] Gunk Shot
+- [ ] Poison Fang
+- [ ] Poison Jab
+- [ ] Poison Sting
+- [ ] Poison Tail
+- [ ] Bone Club
+- [ ] Bone Rush
+- [ ] Bonemerang
+- [ ] Dig
+- [ ] Earthquake
+- [ ] Fissure
+- [ ] Magnitude
+- [ ] Sand Tomb
+- [ ] Head Smash
+- [ ] Rock Blast
+- [ ] Rock Slide
+- [ ] Rock Throw
+- [ ] Rock Tomb
+- [ ] Rock Wrecker
+- [ ] Rollout
+- [ ] Stone Edge
+- [ ] Attack Order
+- [ ] Bug Bite
+- [ ] Fury Cutter
+- [ ] Leech Life
+- [ ] Megahorn
+- [ ] Pin Missile
+- [ ] Twineedle
+- [ ] U-turn
+- [ ] X-Scissor
+- [ ] Astonish
+- [ ] Lick
+- [ ] Shadow Claw
+- [ ] Shadow Force
+- [ ] Shadow Punch
+- [ ] Shadow Sneak
+- [ ] Bullet Punch
+- [ ] Gyro Ball
+- [ ] Iron Head
+- [ ] Iron Tail
+- [ ] Magnet Bomb
+- [ ] Metal Burst
+- [ ] Metal Claw
+- [ ] Meteor Mash
+- [ ] Steel Wing
+- [ ] Blaze Kick
+- [ ] Fire Fang
+- [ ] Fire Punch
+- [ ] Flame Wheel
+- [ ] Flare Blitz
+- [ ] Sacred Fire
+- [ ] Aqua Jet
+- [ ] Aqua Tail
+- [ ] Clamp
+- [ ] Crabhammer
+- [ ] Dive
+- [ ] Waterfall
+- [ ] Bullet Seed
+- [ ] Leaf Blade
+- [ ] Needle Arm
+- [ ] Power Whip
+- [ ] Razor Leaf
+- [ ] Seed Bomb
+- [ ] Vine Whip
+- [ ] Wood Hammer
+- [ ] Spark
+- [ ] Thunder Fang
+- [ ] Thunder Punch
+- [ ] Volt Tackle
+- [ ] Psycho Cut
+- [ ] Zen Headbutt
+- [ ] Avalanche
+- [ ] Ice Ball
+- [ ] Ice Fang
+- [ ] Ice Punch
+- [ ] Ice Shard
+- [ ] Icicle Spear
+- [ ] Dragon Claw
+- [ ] Dragon Rush
+- [ ] Outrage
+- [ ] Assurance
+- [ ] Beat Up
+- [ ] Bite
+- [ ] Crunch
+- [ ] Feint Attack
+- [ ] Fling
+- [ ] Knock Off
+- [ ] Night Slash
+- [ ] Payback
+- [ ] Punishment
+- [ ] Pursuit
+- [ ] Sucker Punch
+- [ ] Thief
+- [ ] Shadow Blast
+- [ ] Shadow Blitz
+- [ ] Shadow Break
+- [ ] Shadow End
+- [ ] Shadow Rush
+- [ ] Hidden Power
+- [ ] Hyper Beam
+- [ ] Hyper Voice
+- [ ] Judgment
+- [ ] Razor Wind
+- [ ] Snore
+- [ ] Sonic Boom
+- [ ] Spit Up
+- [ ] Swift
+- [ ] Tri Attack
+- [ ] Trump Card
+- [ ] Uproar
+- [ ] Weather Ball
+- [ ] Wring Out
+- [ ] Aura Sphere
+- [ ] Focus Blast
+- [ ] Vacuum Wave
+- [ ] Aeroblast
+- [ ] Air Cutter
+- [ ] Air Slash
+- [ ] Chatter
+- [ ] Gust
+- [ ] Acid
+- [ ] Sludge
+- [ ] Sludge Bomb
+- [ ] Smog
+- [ ] Earth Power
+- [ ] Mud Bomb
+- [ ] Mud Shot
+- [ ] Mud-Slap
+- [ ] Ancient Power
+- [ ] Power Gem
+- [ ] Bug Buzz
+- [ ] Signal Beam
+- [ ] Silver Wind
+- [ ] Night Shade
+- [ ] Ominous Wind
+- [ ] Shadow Ball
+- [ ] Doom Desire
+- [ ] Flash Cannon
+- [ ] Mirror Shot
+- [ ] Blast Burn
+- [ ] Ember
+- [ ] Eruption
+- [ ] Fire Blast
+- [ ] Fire Spin
+- [ ] Flamethrower
+- [ ] Heat Wave
+- [ ] Lava Plume
+- [ ] Magma Storm
+- [ ] Overheat
+- [ ] Brine
+- [ ] Bubble
+- [ ] Bubble Beam
+- [ ] Hydro Cannon
+- [ ] Hydro Pump
+- [ ] Muddy Water
+- [ ] Octazooka
+- [ ] Surf
+- [ ] Water Gun
+- [ ] Water Pulse
+- [ ] Water Spout
+- [ ] Whirlpool
+- [ ] Absorb
+- [ ] Energy Ball
+- [ ] Frenzy Plant
+- [ ] Giga Drain
+- [ ] Grass Knot
+- [ ] Leaf Storm
+- [ ] Magical Leaf
+- [ ] Mega Drain
+- [ ] Petal Dance
+- [ ] Seed Flare
+- [ ] Solar Beam
+- [ ] Charge Beam
+- [ ] Discharge
+- [ ] Shock Wave
+- [ ] Thunder
+- [ ] Thunder Shock
+- [ ] Thunderbolt
+- [ ] Zap Cannon
+- [ ] Confusion
+- [ ] Dream Eater
+- [ ] Extrasensory
+- [ ] Future Sight
+- [ ] Luster Purge
+- [ ] Mirror Coat
+- [ ] Mist Ball
+- [ ] Psybeam
+- [ ] Psychic
+- [ ] Psycho Boost
+- [ ] Psywave
+- [ ] Aurora Beam
+- [ ] Blizzard
+- [ ] Ice Beam
+- [ ] Icy Wind
+- [ ] Powder Snow
+- [ ] Sheer Cold
+- [ ] Draco Meteor
+- [ ] Dragon Breath
+- [ ] Dragon Pulse
+- [ ] Dragon Rage
+- [ ] Roar of Time
+- [ ] Spacial Rend
+- [ ] Twister
+- [ ] Dark Pulse
+- [ ] Shadow Bolt
+- [ ] Shadow Chill
+- [ ] Shadow Fire
+- [ ] Shadow Half
+- [ ] Shadow Rave
+- [ ] Shadow Storm
+- [ ] Shadow Wave
+- [ ] Acupressure
+- [ ] Assist
+- [ ] Attract
+- [ ] Baton Pass
+- [ ] Belly Drum
+- [ ] Block
+- [ ] Camouflage
+- [ ] Captivate
+- [ ] Conversion
+- [ ] Conversion 2
+- [ ] Copycat
+- [ ] Defense Curl
+- [ ] Disable
+- [ ] Double Team
+- [ ] Encore
+- [ ] Endure
+- [ ] Flash
+- [ ] Focus Energy
+- [ ] Follow Me
+- [ ] Foresight
+- [ ] Glare
+- [ ] Growl
+- [ ] Growth
+- [ ] Harden
+- [ ] Heal Bell
+- [ ] Helping Hand
+- [ ] Howl
+- [ ] Leer
+- [ ] Lock-On
+- [ ] Lovely Kiss
+- [ ] Lucky Chant
+- [ ] Me First
+- [ ] Mean Look
+- [ ] Metronome
+- [ ] Milk Drink
+- [ ] Mimic
+- [ ] Mind Reader
+- [ ] Minimize
+- [ ] Morning Sun
+- [ ] Nature Power
+- [ ] Odor Sleuth
+- [ ] Pain Split
+- [ ] Perish Song
+- [ ] Protect
+- [ ] Psych Up
+- [ ] Recover
+- [ ] Recycle
+- [ ] Refresh
+- [ ] Roar
+- [ ] Safeguard
+- [ ] Scary Face
+- [ ] Screech
+- [ ] Sharpen
+- [ ] Sing
+- [ ] Sketch
+- [ ] Slack Off
+- [ ] Sleep Talk
+- [ ] Smokescreen
+- [ ] Soft-Boiled
+- [ ] Splash
+- [ ] Stockpile
+- [ ] Substitute
+- [ ] Supersonic
+- [ ] Swagger
+- [ ] Swallow
+- [ ] Sweet Scent
+- [ ] Swords Dance
+- [ ] Tail Whip
+- [ ] Teeter Dance
+- [ ] Tickle
+- [ ] Transform
+- [ ] Whirlwind
+- [ ] Wish
+- [ ] Yawn
+- [ ] Bulk Up
+- [ ] Detect
+- [ ] Defog
+- [ ] Feather Dance
+- [ ] Mirror Move
+- [ ] Roost
+- [ ] Tailwind
+- [ ] Acid Armor
+- [ ] Gastro Acid
+- [ ] Poison Gas
+- [ ] Poison Powder
+- [ ] Toxic
+- [ ] Toxic Spikes
+- [ ] Mud Sport
+- [ ] Sand Attack
+- [ ] Spikes
+- [ ] Rock Polish
+- [ ] Sandstorm
+- [ ] Stealth Rock
+- [ ] Defend Order
+- [ ] Heal Order
+- [ ] Spider Web
+- [ ] String Shot
+- [ ] Tail Glow
+- [ ] Confuse Ray
+- [ ] Curse
+- [ ] Destiny Bond
+- [ ] Grudge
+- [ ] Nightmare
+- [ ] Spite
+- [ ] Iron Defense
+- [ ] Metal Sound
+- [ ] Sunny Day
+- [ ] Will-O-Wisp
+- [ ] Aqua Ring
+- [ ] Rain Dance
+- [ ] Water Sport
+- [ ] Withdraw
+- [ ] Aromatherapy
+- [ ] Cotton Spore
+- [ ] Grass Whistle
+- [ ] Ingrain
+- [ ] Leech Seed
+- [ ] Sleep Powder
+- [ ] Spore
+- [ ] Stun Spore
+- [ ] Synthesis
+- [ ] Worry Seed
+- [ ] Charge
+- [ ] Magnet Rise
+- [ ] Thunder Wave
+- [ ] Agility
+- [ ] Amnesia
+- [ ] Barrier
+- [ ] Calm Mind
+- [ ] Cosmic Power
+- [ ] Gravity
+- [ ] Guard Swap
+- [ ] Heal Block
+- [ ] Healing Wish
+- [ ] Heart Swap
+- [ ] Hypnosis
+- [ ] Imprison
+- [ ] Kinesis
+- [ ] Light Screen
+- [ ] Lunar Dance
+- [ ] Magic Coat
+- [ ] Meditate
+- [ ] Miracle Eye
+- [ ] Power Swap
+- [ ] Power Trick
+- [ ] Psycho Shift
+- [ ] Reflect
+- [ ] Rest
+- [ ] Role Play
+- [ ] Skill Swap
+- [ ] Teleport
+- [ ] Trick
+- [ ] Trick Room
+- [ ] Hail
+- [ ] Haze
+- [ ] Mist
+- [ ] Dragon Dance
+- [ ] Dark Void
+- [ ] Embargo
+- [ ] Fake Tears
+- [ ] Flatter
+- [ ] Memento
+- [ ] Nasty Plot
+- [ ] Snatch
+- [ ] Switcheroo
+- [ ] Taunt
+- [ ] Torment
+- [ ] Charm
+- [ ] Moonlight
+- [ ] Sweet Kiss

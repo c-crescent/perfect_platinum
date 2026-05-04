@@ -1,0 +1,107 @@
+- [ ] Acuity Lakefront
+- [ ] Battle Frontier (Sinnoh)
+- [ ] Battle Park (Sinnoh)
+- [ ] Battle Tower (Sinnoh)
+- [ ] Big Bluff Cavern
+- [ ] Bogsunk Cavern
+- [ ] Canalave City
+- [ ] Celestic Town
+- [ ] Dazzling Cave
+- [ ] Distortion World
+- [ ] Eterna City
+- [ ] Eterna Condominiums
+- [ ] Eterna Forest
+- [ ] Fight Area
+- [ ] Floaroma Town
+- [ ] Flower Paradise
+- [ ] Fountainspring Cave
+- [ ] Fuego Ironworks
+- [ ] Fullmoon Island
+- [ ] Glacial Cavern
+- [ ] Grassland Cave
+- [ ] Great Marsh
+- [ ] Hall of Origin
+- [ ] Hearthome City
+- [ ] Iceberg Ruins (Sinnoh)
+- [ ] Icy Cave
+- [ ] Iron Island
+- [ ] Iron Ruins (Sinnoh)
+- [ ] Jubilife City
+- [ ] Lake Acuity
+- [ ] Lake Valor
+- [ ] Lake Verity
+- [ ] Lost Tower
+- [ ] Maniac Tunnel
+- [ ] Mount Coronet
+- [ ] Newmoon Island
+- [ ] Old Chateau
+- [ ] Oreburgh City
+- [ ] Oreburgh Gate
+- [ ] Oreburgh Mine
+- [ ] Oreburgh Mining Museum
+- [ ] Pastoria City
+- [ ] PokÃ©mon League (Sinnoh)
+- [ ] PokÃ©mon Mansion (Sinnoh)
+- [ ] Ramanas Park
+- [ ] Ravaged Path
+- [ ] Resort Area
+- [ ] Riverbank Cave
+- [ ] Rock Peak Ruins (Sinnoh)
+- [ ] Rocky Cave
+- [ ] Sinnoh Route 201
+- [ ] Sinnoh Route 202
+- [ ] Sinnoh Route 203
+- [ ] Sinnoh Route 204
+- [ ] Sinnoh Route 205
+- [ ] Sinnoh Route 206
+- [ ] Sinnoh Route 207
+- [ ] Sinnoh Route 208
+- [ ] Sinnoh Route 209
+- [ ] Sinnoh Route 210
+- [ ] Sinnoh Route 211
+- [ ] Sinnoh Route 212
+- [ ] Sinnoh Route 213
+- [ ] Sinnoh Route 214
+- [ ] Sinnoh Route 215
+- [ ] Sinnoh Route 216
+- [ ] Sinnoh Route 217
+- [ ] Sinnoh Route 218
+- [ ] Sinnoh Route 219
+- [ ] Sinnoh Route 220
+- [ ] Sinnoh Route 221
+- [ ] Sinnoh Route 222
+- [ ] Sinnoh Route 223
+- [ ] Sinnoh Route 224
+- [ ] Sinnoh Route 225
+- [ ] Sinnoh Route 226
+- [ ] Sinnoh Route 227
+- [ ] Sinnoh Route 228
+- [ ] Sinnoh Route 229
+- [ ] Sinnoh Route 230
+- [ ] Sandgem Town
+- [ ] Sandsear Cave
+- [ ] Sendoff Spring
+- [ ] Snowpoint City
+- [ ] Snowpoint Temple
+- [ ] Solaceon Ruins
+- [ ] Solaceon Town
+- [ ] Spacious Cave
+- [ ] Spear Pillar
+- [ ] Stargleam Cavern
+- [ ] Stark Mountain
+- [ ] Still-Water Cavern
+- [ ] Sunlit Cavern
+- [ ] Sunyshore City
+- [ ] Swampy Cave
+- [ ] Trophy Garden
+- [ ] Turnback Cave
+- [ ] Twinleaf Town
+- [ ] Typhlo Cavern
+- [ ] Underground
+- [ ] Valley Windworks
+- [ ] Valor Lakefront
+- [ ] Veilstone City
+- [ ] Victory Road (Sinnoh)
+- [ ] Volcanic Cave
+- [ ] Wayward Cave
+- [ ] Whiteout Cave
