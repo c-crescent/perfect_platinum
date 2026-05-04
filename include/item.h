@@ -257,6 +257,16 @@ const u16 Item_MoveForTMHM(u16 item);
 u8 Item_IsHMMove(u16 move);
 
 /**
+ * @brief Get the TM or HM corresponding to a move.
+ *
+ * Returns 0xFFFF if one is not found.
+ *
+ * @param move
+ * @return The TM or HM attributed with the move.
+ */
+u16 Item_TMHMForMove(u16 move);
+
+/**
  * @brief Get the TM number for a given item, if it is a TM or HM.
  *
  * HMs are considered to be TMs 93 - 100.

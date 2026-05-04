@@ -24,18 +24,18 @@ FieldMoves_CutTree:
     PlaySE SEQ_SE_CONFIRM
     LockAll
     FacePlayer
-    FindPartySlotWithMove VAR_RESULT, MOVE_CUT
-    GoToIfEq VAR_RESULT, 6, _008E
-    CheckBadgeAcquired BADGE_ID_FOREST, VAR_RESULT
-    GoToIfEq VAR_RESULT, 0, _008E
+    CheckTMHMMoveCompatibility MOVE_CUT, VAR_0x8004, VAR_RESULT
+    GoToIfEQ VAR_RESULT, FALSE, _CannotUseCut
+    CheckItem ITEM_HM01, 1, VAR_RESULT
+    GoToIfNe VAR_RESULT, TRUE, _CannotUseCut
     Message FieldMoves_Text_WouldYouLikeToUseCut
     ShowYesNoMenu VAR_RESULT
-    GoToIfEq VAR_RESULT, MENU_YES, _00AE
+    GoToIfEq VAR_RESULT, MENU_YES, _UseCut
     CloseMessage
     GoTo _066D
     End
 
-_008E:
+_CannotUseCut:
     Message FieldMoves_Text_TreeLooksLikeCanBeCut
     GetCurrentMapID VAR_0x8004
     CallIfEq VAR_0x8004, 203, _014A
@@ -44,10 +44,8 @@ _008E:
     GoTo _066D
     End
 
-_00AE:
-    FindPartySlotWithMove VAR_RESULT, MOVE_CUT
-    SetVar VAR_0x8004, VAR_RESULT
-    BufferPartyMonNickname 0, VAR_RESULT
+_UseCut:
+    BufferPartyMonNickname 0, VAR_0x8004
     Message FieldMoves_Text_PokemonUsedCut
     CloseMessage
     ScrCmd_0C5 VAR_0x8004
@@ -128,26 +126,27 @@ FieldMoves_Rock:
     PlaySE SEQ_SE_CONFIRM
     LockAll
     FacePlayer
-    FindPartySlotWithMove VAR_RESULT, MOVE_ROCK_SMASH
-    SetVar VAR_0x8004, VAR_RESULT
-    GoToIfEq VAR_RESULT, 6, _0275
+    CheckTMHMMoveCompatibility MOVE_ROCK_SMASH, VAR_0x8004, VAR_RESULT
+    GoToIfEQ VAR_RESULT, FALSE, _CannotUseRockSmash
+    CheckItem ITEM_HM06, 1, VAR_RESULT
+    GoToIfNe VAR_RESULT, TRUE, _CannotUseRockSmash
     CheckBadgeAcquired BADGE_ID_COAL, VAR_RESULT
-    GoToIfEq VAR_RESULT, 0, _0275
+    GoToIfEq VAR_RESULT, 0, _CannotUseRockSmash
     Message FieldMoves_Text_WouldYouLikeToUseRockSmash
     ShowYesNoMenu VAR_RESULT
-    GoToIfEq VAR_RESULT, MENU_YES, _0284
+    GoToIfEq VAR_RESULT, MENU_YES, _UseRockSmash
     CloseMessage
     GoTo _066D
     End
 
-_0275:
+_CannotUseRockSmash:
     Message FieldMoves_Text_PokemonMayBeAbleToSmashRock
     WaitButton
     CloseMessage
     GoTo _066D
     End
 
-_0284:
+_UseRockSmash:
     BufferPartyMonNickname 0, VAR_0x8004
     Message FieldMoves_Text_PokemonUsedRockSmash
     CloseMessage

@@ -5024,6 +5024,13 @@
     GoToIf 5, \offset
     .endm
 
+    .macro CheckTMHMMoveCompatibility move, slot, result
+        .short SCRCMD_CHECKTMHMMOVECOMPATIBILITY
+        .short \move
+        .short \slot
+        .short \result
+        .endm
+
    .macro GoToIfInRange varID, lower, upper, offset
     CompareVar \varID, \lower
     GoToIf 1, \offset
