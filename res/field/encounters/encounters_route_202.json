@@ -7,7 +7,7 @@
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_ZIGZAGOON"
         },
         {
             "level": 4,
@@ -23,7 +23,7 @@
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_ZIGZAGOON"
         },
         {
             "level": 4,
@@ -31,7 +31,7 @@
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 2,
@@ -39,7 +39,7 @@
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 2,
@@ -55,12 +55,12 @@
         "SPECIES_ZIGZAGOON"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_PIDGEY",
+        "SPECIES_SENTRET"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_BIDOOF"
+        "SPECIES_HOOTHOOT",
+        "SPECIES_SPINARAK"
     ],
     "radar": [
         "SPECIES_SENTRET",

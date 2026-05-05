@@ -13,11 +13,11 @@
 - [ ] 013	Weedle
 - [ ] 014	Kakuna
 - [ ] 015	Beedrill
-- [ ] 016	Pidgey
-- [ ] 017	Pidgeotto
-- [ ] 018	Pidgeot
-- [ ] 019	Rattata
-- [ ] 020	Raticate
+- [X] 016	Pidgey
+- [X] 017	Pidgeotto
+- [X] 018	Pidgeot
+- [x] 019	Rattata
+- [X] 020	Raticate
 - [ ] 021	Spearow
 - [ ] 022	Fearow
 - [ ] 023	Ekans
@@ -32,14 +32,14 @@
 - [ ] 032	Nidoran♂
 - [ ] 033	Nidorino
 - [ ] 034	Nidoking
-- [ ] 035	Clefairy
+- [X] 035	Clefairy
 - [ ] 036	Clefable
 - [ ] 037	Vulpix
 - [ ] 038	Ninetales
 - [ ] 039	Jigglypuff
 - [ ] 040	Wigglytuff
-- [ ] 041	Zubat
-- [ ] 042	Golbat
+- [X] 041	Zubat
+- [X] 042	Golbat
 - [ ] 043	Oddish
 - [ ] 044	Gloom
 - [ ] 045	Vileplume
@@ -51,8 +51,8 @@
 - [ ] 051	Dugtrio
 - [ ] 052	Meowth
 - [ ] 053	Persian
-- [ ] 054	Psyduck
-- [ ] 055	Golduck
+- [X] 054	Psyduck
+- [X] 055	Golduck
 - [ ] 056	Mankey
 - [ ] 057	Primeape
 - [ ] 058	Growlithe
@@ -60,26 +60,26 @@
 - [ ] 060	Poliwag
 - [ ] 061	Poliwhirl
 - [ ] 062	Poliwrath
-- [ ] 063	Abra
-- [ ] 064	Kadabra
+- [x] 063	Abra
+- [x] 064	Kadabra
 - [ ] 065	Alakazam
-- [ ] 066	Machop
-- [ ] 067	Machoke
+- [X] 066	Machop
+- [X] 067	Machoke
 - [ ] 068	Machamp
 - [ ] 069	Bellsprout
 - [ ] 070	Weepinbell
 - [ ] 071	Victreebel
-- [ ] 072	Tentacool
-- [ ] 073	Tentacruel
-- [ ] 074	Geodude
-- [ ] 075	Graveler
+- [X] 072	Tentacool
+- [X] 073	Tentacruel
+- [X] 074	Geodude
+- [x] 075	Graveler
 - [ ] 076	Golem
-- [ ] 077	Ponyta
-- [ ] 078	Rapidash
+- [X] 077	Ponyta
+- [X] 078	Rapidash
 - [ ] 079	Slowpoke
 - [ ] 080	Slowbro
-- [ ] 081	Magnemite
-- [ ] 082	Magneton
+- [X] 081	Magnemite
+- [X] 082	Magneton
 - [ ] 083	Farfetch'd
 - [ ] 084	Doduo
 - [ ] 085	Dodrio
@@ -87,12 +87,12 @@
 - [ ] 087	Dewgong
 - [ ] 088	Grimer
 - [ ] 089	Muk
-- [ ] 090	Shellder
-- [ ] 091	Cloyster
-- [ ] 092	Gastly
-- [ ] 093	Haunter
+- [X] 090	Shellder
+- [X] 091	Cloyster
+- [X] 092	Gastly
+- [X] 093	Haunter
 - [ ] 094	Gengar
-- [ ] 095	Onix
+- [x] 095	Onix
 - [ ] 096	Drowzee
 - [ ] 097	Hypno
 - [ ] 098	Krabby
@@ -105,29 +105,29 @@
 - [ ] 105	Marowak
 - [ ] 106	Hitmonlee
 - [ ] 107	Hitmonchan
-- [ ] 108	Lickitung
+- [X] 108	Lickitung
 - [ ] 109	Koffing
 - [ ] 110	Weezing
-- [ ] 111	Rhyhorn
-- [ ] 112	Rhydon
-- [ ] 113	Chansey
-- [ ] 114	Tangela
+- [x] 111	Rhyhorn
+- [x] 112	Rhydon
+- [X] 113	Chansey
+- [x] 114	Tangela
 - [ ] 115	Kangaskhan
 - [ ] 116	Horsea
 - [ ] 117	Seadra
-- [ ] 118	Goldeen
-- [ ] 119	Seaking
-- [ ] 120	Staryu
+- [X] 118	Goldeen
+- [X] 119	Seaking
+- [x] 120	Staryu
 - [ ] 121	Starmie
 - [ ] 122	Mr. Mime
-- [ ] 123	Scyther
-- [ ] 124	Jynx
-- [ ] 125	Electabuzz
+- [X] 123	Scyther
+- [x] 124	Jynx
+- [x] 125	Electabuzz
 - [ ] 126	Magmar
 - [ ] 127	Pinsir
 - [ ] 128	Tauros
-- [ ] 129	Magikarp
-- [ ] 130	Gyarados
+- [X] 129	Magikarp
+- [X] 130	Gyarados
 - [ ] 131	Lapras
 - [ ] 132	Ditto
 - [x] 133	Eevee
@@ -158,19 +158,19 @@
 - [X] 158	Totodile
 - [X] 159	Croconaw
 - [X] 160	Feraligatr
-- [ ] 161	Sentret
-- [ ] 162	Furret
-- [ ] 163	Hoothoot
-- [ ] 164	Noctowl
+- [X] 161	Sentret
+- [X] 162	Furret
+- [x] 163	Hoothoot
+- [x] 164	Noctowl
 - [ ] 165	Ledyba
 - [ ] 166	Ledian
-- [ ] 167	Spinarak
-- [ ] 168	Ariados
+- [x] 167	Spinarak
+- [x] 168	Ariados
 - [ ] 169	Crobat
 - [ ] 170	Chinchou
 - [ ] 171	Lanturn
-- [ ] 172	Pichu
-- [ ] 173	Cleffa
+- [] 172	Pichu
+- [X] 173	Cleffa
 - [ ] 174	Igglybuff
 - [ ] 175	Togepi
 - [ ] 176	Togetic
@@ -180,8 +180,8 @@
 - [ ] 180	Flaaffy
 - [ ] 181	Ampharos
 - [ ] 182	Bellossom
-- [ ] 183	Marill
-- [ ] 184	Azumarill
+- [X] 183	Marill
+- [X] 184	Azumarill
 - [ ] 185	Sudowoodo
 - [ ] 186	Politoed
 - [ ] 187	Hoppip
@@ -190,9 +190,9 @@
 - [ ] 190	Aipom
 - [ ] 191	Sunkern
 - [ ] 192	Sunflora
-- [ ] 193	Yanma
-- [ ] 194	Wooper
-- [ ] 195	Quagsire
+- [x] 193	Yanma
+- [x] 194	Wooper
+- [X] 195	Quagsire
 - [ ] 196	Espeon
 - [ ] 197	Umbreon
 - [ ] 198	Murkrow
@@ -200,33 +200,33 @@
 - [ ] 200	Misdreavus
 - [ ] 201	Unown
 - [ ] 202	Wobbuffet
-- [ ] 203	Girafarig
+- [X] 203	Girafarig
 - [ ] 204	Pineco
 - [ ] 205	Forretress
 - [ ] 206	Dunsparce
-- [ ] 207	Gligar
-- [ ] 208	Steelix
+- [X] 207	Gligar
+- [x] 208	Steelix
 - [ ] 209	Snubbull
 - [ ] 210	Granbull
 - [ ] 211	Qwilfish
 - [ ] 212	Scizor
 - [ ] 213	Shuckle
 - [ ] 214	Heracross
-- [ ] 215	Sneasel
+- [x] 215	Sneasel
 - [ ] 216	Teddiursa
 - [ ] 217	Ursaring
 - [ ] 218	Slugma
 - [ ] 219	Magcargo
-- [ ] 220	Swinub
-- [ ] 221	Piloswine
+- [x] 220	Swinub
+- [x] 221	Piloswine
 - [ ] 222	Corsola
-- [ ] 223	Remoraid
-- [ ] 224	Octillery
+- [X] 223	Remoraid
+- [X] 224	Octillery
 - [ ] 225	Delibird
 - [ ] 226	Mantine
 - [ ] 227	Skarmory
-- [ ] 228	Houndour
-- [ ] 229	Houndoom
+- [X] 228	Houndour
+- [X] 229	Houndoom
 - [ ] 230	Kingdra
 - [ ] 231	Phanpy
 - [ ] 232	Donphan
@@ -235,7 +235,7 @@
 - [ ] 235	Smeargle
 - [ ] 236	Tyrogue
 - [ ] 237	Hitmontop
-- [ ] 238	Smoochum
+- [x] 238	Smoochum
 - [ ] 239	Elekid
 - [ ] 240	Magby
 - [ ] 241	Miltank
@@ -260,13 +260,13 @@
 - [X] 260	Swampert
 - [ ] 261	Poochyena
 - [ ] 262	Mightyena
-- [ ] 263	Zigzagoon
-- [ ] 264	Linoone
-- [ ] 265	Wurmple
-- [ ] 266	Silcoon
-- [ ] 267	Beautifly
-- [ ] 268	Cascoon
-- [ ] 269	Dustox
+- [X] 263	Zigzagoon
+- [X] 264	Linoone
+- [X] 265	Wurmple
+- [X] 266	Silcoon
+- [X] 267	Beautifly
+- [X] 268	Cascoon
+- [X] 269	Dustox
 - [ ] 270	Lotad
 - [ ] 271	Lombre
 - [ ] 272	Ludicolo
@@ -275,13 +275,13 @@
 - [ ] 275	Shiftry
 - [ ] 276	Taillow
 - [ ] 277	Swellow
-- [ ] 278	Wingull
-- [ ] 279	Pelipper
-- [ ] 280	Ralts
+- [X] 278	Wingull
+- [X] 279	Pelipper
+- [X] 280	Ralts
 - [ ] 281	Kirlia
 - [ ] 282	Gardevoir
-- [ ] 283	Surskit
-- [ ] 284	Masquerain
+- [x] 283	Surskit
+- [x] 284	Masquerain
 - [ ] 285	Shroomish
 - [ ] 286	Breloom
 - [ ] 287	Slakoth
@@ -296,7 +296,7 @@
 - [ ] 296	Makuhita
 - [ ] 297	Hariyama
 - [ ] 298	Azurill
-- [ ] 299	Nosepass
+- [X] 299	Nosepass
 - [ ] 300	Skitty
 - [ ] 301	Delcatty
 - [ ] 302	Sableye
@@ -304,21 +304,21 @@
 - [ ] 304	Aron
 - [ ] 305	Lairon
 - [ ] 306	Aggron
-- [ ] 307	Meditite
-- [ ] 308	Medicham
+- [X] 307	Meditite
+- [X] 308	Medicham
 - [ ] 309	Electrike
 - [ ] 310	Manectric
 - [ ] 311	Plusle
 - [ ] 312	Minun
 - [ ] 313	Volbeat
 - [ ] 314	Illumise
-- [ ] 315	Roselia
+- [X] 315	Roselia
 - [ ] 316	Gulpin
 - [ ] 317	Swalot
 - [ ] 318	Carvanha
 - [ ] 319	Sharpedo
-- [ ] 320	Wailmer
-- [ ] 321	Wailord
+- [x] 320	Wailmer
+- [x] 321	Wailord
 - [ ] 322	Numel
 - [ ] 323	Camerupt
 - [ ] 324	Torkoal
@@ -336,8 +336,8 @@
 - [ ] 336	Seviper
 - [ ] 337	Lunatone
 - [ ] 338	Solrock
-- [ ] 339	Barboach
-- [ ] 340	Whiscash
+- [x] 339	Barboach
+- [x] 340	Whiscash
 - [ ] 341	Corphish
 - [ ] 342	Crawdaunt
 - [ ] 343	Baltoy
@@ -352,13 +352,13 @@
 - [ ] 352	Kecleon
 - [ ] 353	Shuppet
 - [ ] 354	Banette
-- [ ] 355	Duskull
-- [ ] 356	Dusclops
-- [ ] 357	Tropius
+- [X] 355	Duskull
+- [X] 356	Dusclops
+- [x] 357	Tropius
 - [ ] 358	Chimecho
 - [ ] 359	Absol
 - [ ] 360	Wynaut
-- [ ] 361	Snorunt
+- [x] 361	Snorunt
 - [ ] 362	Glalie
 - [ ] 363	Spheal
 - [ ] 364	Sealeo
@@ -367,7 +367,7 @@
 - [ ] 367	Huntail
 - [ ] 368	Gorebyss
 - [ ] 369	Relicanth
-- [ ] 370	Luvdisc
+- [x] 370	Luvdisc
 - [ ] 371	Bagon
 - [ ] 372	Shelgon
 - [ ] 373	Salamence
@@ -393,56 +393,56 @@
 - [X] 393	Piplup
 - [X] 394	Prinplup
 - [X] 395	Empoleon
-- [ ] 396	Starly
-- [ ] 397	Staravia
-- [ ] 398	Staraptor
-- [ ] 399	Bidoof
-- [ ] 400	Bibarel
-- [ ] 401	Kricketot
-- [ ] 402	Kricketune
-- [ ] 403	Shinx
-- [ ] 404	Luxio
-- [ ] 405	Luxray
-- [ ] 406	Budew
+- [X] 396	Starly
+- [X] 397	Staravia
+- [X] 398	Staraptor
+- [X] 399	Bidoof
+- [X] 400	Bibarel
+- [X] 401	Kricketot
+- [X] 402	Kricketune
+- [X] 403	Shinx
+- [x] 404	Luxio
+- [x] 405	Luxray
+- [x] 406	Budew
 - [ ] 407	Roserade
-- [ ] 408	Cranidos
-- [ ] 409	Rampardos
-- [ ] 410	Shieldon
-- [ ] 411	Bastiodon
-- [ ] 412	Burmy
-- [ ] 413	Wormadam
+- [x] 408	Cranidos
+- [x] 409	Rampardos
+- [x] 410	Shieldon
+- [x] 411	Bastiodon
+- [x] 412	Burmy
+- [x] 413	Wormadam
 - [ ] 414	Mothim
 - [ ] 415	Combee
 - [ ] 416	Vespiquen
-- [ ] 417	Pachirisu
-- [ ] 418	Buizel
-- [ ] 419	Floatzel
+- [X] 417	Pachirisu
+- [X] 418	Buizel
+- [X] 419	Floatzel
 - [ ] 420	Cherubi
 - [ ] 421	Cherrim
-- [ ] 422	Shellos
-- [ ] 423	Gastrodon
+- [X] 422	Shellos
+- [X] 423	Gastrodon
 - [ ] 424	Ambipom
 - [ ] 425	Drifloon
 - [ ] 426	Drifblim
-- [ ] 427	Buneary
-- [ ] 428	Lopunny
+- [X] 427	Buneary
+- [X] 428	Lopunny
 - [ ] 429	Mismagius
 - [ ] 430	Honchkrow
 - [ ] 431	Glameow
 - [ ] 432	Purugly
-- [ ] 433	Chingling
+- [X] 433	Chingling
 - [ ] 434	Stunky
 - [ ] 435	Skuntank
-- [ ] 436	Bronzor
-- [ ] 437	Bronzong
+- [X] 436	Bronzor
+- [X] 437	Bronzong
 - [ ] 438	Bonsly
 - [ ] 439	Mime Jr.
 - [ ] 440	Happiny
-- [ ] 441	Chatot
+- [X] 441	Chatot
 - [ ] 442	Spiritomb
-- [ ] 443	Gible
-- [ ] 444	Gabite
-- [ ] 445	Garchomp
+- [x] 443	Gible
+- [x] 444	Gabite
+- [x] 445	Garchomp
 - [ ] 446	Munchlax
 - [ ] 447	Riolu
 - [ ] 448	Lucario
@@ -453,11 +453,11 @@
 - [ ] 453	Croagunk
 - [ ] 454	Toxicroak
 - [ ] 455	Carnivine
-- [ ] 456	Finneon
-- [ ] 457	Lumineon
-- [ ] 458	Mantyke
-- [ ] 459	Snover
-- [ ] 460	Abomasnow
+- [X] 456	Finneon
+- [X] 457	Lumineon
+- [x] 458	Mantyke
+- [x] 459	Snover
+- [x] 460	Abomasnow
 - [ ] 461	Weavile
 - [ ] 462	Magnezone
 - [ ] 463	Lickilicky

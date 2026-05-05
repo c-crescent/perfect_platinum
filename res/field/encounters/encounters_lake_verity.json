@@ -7,7 +7,7 @@
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 3,
@@ -27,7 +27,7 @@
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 4,
@@ -35,15 +35,15 @@
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 5,
@@ -99,7 +99,7 @@
         {
             "level_max": 30,
             "level_min": 20,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level_max": 30,

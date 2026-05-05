@@ -135,7 +135,7 @@ const u16 VeilstoneDeptStoreStock_2F_UP[] = {
     ITEM_SUN_STONE,
     ITEM_SHINY_STONE,
     ITEM_DUSK_STONE,
-    ITEM_DAWN_STONE
+    ITEM_DAWN_STONE,
     SHOP_ITEM_END
 };
 

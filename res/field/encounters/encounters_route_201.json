@@ -55,12 +55,12 @@
         "SPECIES_DODUO"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_PIDGEY",
+        "SPECIES_SENTRET"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_BIDOOF"
+        "SPECIES_HOOTHOOT",
+        "SPECIES_SPINARAK"
     ],
     "radar": [
         "SPECIES_NIDORAN_M",
