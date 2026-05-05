@@ -149,15 +149,15 @@
 - [ ] 149	Dragonite
 - [ ] 150	Mewtwo
 - [ ] 151	Mew
-- [ ] 152	Chikorita
-- [ ] 153	Bayleef
-- [ ] 154	Meganium
-- [ ] 155	Cyndaquil
-- [ ] 156	Quilava
-- [ ] 157	Typhlosion
-- [ ] 158	Totodile
-- [ ] 159	Croconaw
-- [ ] 160	Feraligatr
+- [X] 152	Chikorita
+- [X] 153	Bayleef
+- [X] 154	Meganium
+- [X] 155	Cyndaquil
+- [X] 156	Quilava
+- [X] 157	Typhlosion
+- [X] 158	Totodile
+- [X] 159	Croconaw
+- [X] 160	Feraligatr
 - [ ] 161	Sentret
 - [ ] 162	Furret
 - [ ] 163	Hoothoot
