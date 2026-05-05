@@ -1,12 +1,12 @@
-- [ ] 001	Bulbasaur
-- [ ] 002	Ivysaur
-- [ ] 003	Venusaur
-- [ ] 004	Charmander
-- [ ] 005	Charmeleon
-- [ ] 006	Charizard
-- [ ] 007	Squirtle
-- [ ] 008	Wartortle
-- [ ] 009	Blastoise
+- [X] 001	Bulbasaur
+- [X] 002	Ivysaur
+- [X] 003	Venusaur
+- [X] 004	Charmander
+- [X] 005	Charmeleon
+- [X] 006	Charizard
+- [X] 007	Squirtle
+- [X] 008	Wartortle
+- [X] 009	Blastoise
 - [ ] 010	Caterpie
 - [ ] 011	Metapod
 - [ ] 012	Butterfree
@@ -22,7 +22,7 @@
 - [ ] 022	Fearow
 - [ ] 023	Ekans
 - [ ] 024	Arbok
-- [ ] 025	Pikachu
+- [x] 025	Pikachu
 - [ ] 026	Raichu
 - [ ] 027	Sandshrew
 - [ ] 028	Sandslash
@@ -130,7 +130,7 @@
 - [ ] 130	Gyarados
 - [ ] 131	Lapras
 - [ ] 132	Ditto
-- [ ] 133	Eevee
+- [x] 133	Eevee
 - [ ] 134	Vaporeon
 - [ ] 135	Jolteon
 - [ ] 136	Flareon
