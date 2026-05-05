@@ -4636,7 +4636,7 @@ static BOOL BattleControllerPlayer_CheckExtraFlinch(BattleSystem *battleSys, Bat
     int itemPower = Battler_HeldItemPower(battleCtx, battleCtx->attacker, 0);
 
     if (battleCtx->defender != BATTLER_NONE
-        && itemEffect == HOLD_EFFECT_SOMETIMES_FLINCH
+        && (itemEffect == HOLD_EFFECT_SOMETIMES_FLINCH || Battler_Ability(battleCtx, battleCtx->attacker) == ABILITY_STENCH)
         && (battleCtx->moveStatusFlags & MOVE_STATUS_NO_EFFECTS) == FALSE
         && (DEFENDER_SELF_TURN_FLAGS.physicalDamageTaken || DEFENDER_SELF_TURN_FLAGS.specialDamageTaken)
         && (BattleSystem_RandNext(battleSys) % 100) < itemPower
