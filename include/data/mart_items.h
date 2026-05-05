@@ -127,14 +127,15 @@ const u16 VeilstoneDeptStoreStock_1F_LEFT[] = {
 };
 
 const u16 VeilstoneDeptStoreStock_2F_UP[] = {
-    ITEM_X_SPEED,
-    ITEM_X_ATTACK,
-    ITEM_X_DEFENSE,
-    ITEM_GUARD_SPEC,
-    ITEM_DIRE_HIT,
-    ITEM_X_ACCURACY,
-    ITEM_X_SPECIAL,
-    ITEM_X_SP_DEF,
+    ITEM_FIRE_STONE,
+    ITEM_WATER_STONE,
+    ITEM_THUNDERSTONE,
+    ITEM_LEAF_STONE,
+    ITEM_MOON_STONE,
+    ITEM_SUN_STONE,
+    ITEM_SHINY_STONE,
+    ITEM_DUSK_STONE,
+    ITEM_DAWN_STONE
     SHOP_ITEM_END
 };
 
