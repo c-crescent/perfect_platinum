@@ -384,15 +384,15 @@
 - [ ] 384	Rayquaza
 - [ ] 385	Jirachi
 - [ ] 386	Deoxys
-- [ ] 387	Turtwig
-- [ ] 388	Grotle
-- [ ] 389	Torterra
-- [ ] 390	Chimchar
-- [ ] 391	Monferno
-- [ ] 392	Infernape
-- [ ] 393	Piplup
-- [ ] 394	Prinplup
-- [ ] 395	Empoleon
+- [X] 387	Turtwig
+- [X] 388	Grotle
+- [X] 389	Torterra
+- [X] 390	Chimchar
+- [X] 391	Monferno
+- [X] 392	Infernape
+- [X] 393	Piplup
+- [X] 394	Prinplup
+- [X] 395	Empoleon
 - [ ] 396	Starly
 - [ ] 397	Staravia
 - [ ] 398	Staraptor
