@@ -7124,8 +7124,8 @@ int BattleSystem_CalcCriticalMulti(BattleSystem *battleSys, BattleContext *battl
         + (itemEffect == HOLD_EFFECT_CRITRATE_UP)
         + criticalStage
         + (attackerAbility == ABILITY_SUPER_LUCK)
-        + (2 * (itemEffect == HOLD_EFFECT_CHANSEY_CRITRATE_UP && attackerSpecies == SPECIES_CHANSEY))
-        + (2 * (itemEffect == HOLD_EFFECT_FARFETCHD_CRITRATE_UP && attackerSpecies == SPECIES_FARFETCHD));
+        + (4 * (itemEffect == HOLD_EFFECT_CHANSEY_CRITRATE_UP && attackerSpecies == SPECIES_CHANSEY))
+        + (4 * (itemEffect == HOLD_EFFECT_FARFETCHD_CRITRATE_UP && attackerSpecies == SPECIES_FARFETCHD));
 
     if (effectiveCritStage > 4) {
         effectiveCritStage = 4;

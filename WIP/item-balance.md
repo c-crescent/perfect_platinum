@@ -71,13 +71,13 @@
 - [ ] King's Rock
 - [ ] Lagging Tail
 - [ ] Lax Incense
-- [ ] Leek
+- [x] Stick: now raises the user's crit rate by 4 stages
 - [ ] Leftovers
 - [ ] Life Orb
 - [ ] Light Ball
 - [ ] Light Clay
 - [ ] Luck Incense
-- [ ] Lucky Punch
+- [x] Lucky Punch: now raises the user's crit rate by 4 stages
 - [ ] Macho Brace
 - [ ] Magnet
 - [ ] Mental Herb
@@ -107,7 +107,7 @@
 - [ ] Sea Incense
 - [ ] Sharp Beak
 - [ ] Shed Shell
-- [ ] Shell Bell
+- [x] Shell Bell: Effect increased to 12%
 - [ ] Silk Scarf
 - [ ] Silver Powder
 - [ ] Smoke Ball
@@ -122,7 +122,7 @@
 - [ ] Twisted Spoon
 - [ ] Wave Incense
 - [ ] White Herb
-- [ ] Wide Lens
+- [x] Wide Lens: effect increased to 15%
 - [ ] Wise Glasses
 - [ ] Yellow Scarf
 - [ ] Zoom Lens
