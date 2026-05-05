@@ -1,123 +1,123 @@
-- [ ] Stench
+- [x] Stench: changed to be similar to its gen 5+ counterpart.
 - [ ] Drizzle
-- [ ] Speed Boost
-- [ ] Battle Armor
+- [x] Speed Boost
+- [x] Battle Armor
 - [ ] Sturdy
-- [ ] Damp
-- [ ] Limber
-- [ ] Sand Veil
-- [ ] Static
-- [ ] Volt Absorb
-- [ ] Water Absorb
+- [x] Damp
+- [x] Limber
+- [x] Sand Veil
+- [x] Static
+- [x] Volt Absorb
+- [x] Water Absorb
 - [ ] Oblivious
-- [ ] Cloud Nine
-- [ ] Compound Eyes
-- [ ] Insomnia
-- [ ] Color Change
-- [ ] Immunity
-- [ ] Flash Fire
-- [ ] Shield Dust
+- [x] Cloud Nine
+- [x] Compound Eyes
+- [x] Insomnia
+- [x] Color Change
+- [x] Immunity
+- [x] Flash Fire
+- [x] Shield Dust
 - [ ] Own Tempo
-- [ ] Suction Cups
-- [ ] Intimidate
-- [ ] Shadow Tag
-- [ ] Rough Skin
-- [ ] Wonder Guard
-- [ ] Levitate
-- [ ] Effect Spore
-- [ ] Synchronize
-- [ ] Clear Body
-- [ ] Natural Cure
-- [ ] Lightning Rod
-- [ ] Serene Grace
-- [ ] Swift Swim
-- [ ] Chlorophyll
+- [x] Suction Cups
+- [x] Intimidate
+- [x] Shadow Tag
+- [x] Rough Skin
+- [x] Wonder Guard
+- [x] Levitate
+- [x] Effect Spore
+- [x] Synchronize
+- [x] Clear Body
+- [x] Natural Cure
+- [ ] Lightning Rod: changed to be similar to its gen 5+ counterpart.
+- [x] Serene Grace
+- [x] Swift Swim
+- [x] Chlorophyll
 - [ ] Illuminate
-- [ ] Trace
-- [ ] Huge Power
-- [ ] Poison Point
+- [x] Trace
+- [x] Huge Power
+- [x] Poison Point
 - [ ] Inner Focus
 - [ ] Magma Armor
-- [ ] Water Veil
-- [ ] Magnet Pull
-- [ ] Soundproof
-- [ ] Rain Dish
-- [ ] Sand Stream
+- [x] Water Veil
+- [x] Magnet Pull
+- [x] Soundproof
+- [x] Rain Dish
+- [x] Sand Stream
 - [ ] Pressure
-- [ ] Thick Fat
+- [x] Thick Fat
 - [ ] Early Bird
-- [ ] Flame Body
+- [x] Flame Body
 - [ ] Run Away
 - [ ] Keen Eye
 - [ ] Hyper Cutter
 - [ ] Pickup
-- [ ] Truant
-- [ ] Hustle
+- [x] Truant
+- [x] Hustle
 - [ ] Cute Charm
 - [ ] Plus
 - [ ] Minus
-- [ ] Forecast
+- [x] Forecast
 - [ ] Sticky Hold
 - [ ] Shed Skin
-- [ ] Guts
-- [ ] Marvel Scale
+- [x] Guts
+- [x] Marvel Scale
 - [ ] Liquid Ooze
-- [ ] Overgrow
-- [ ] Blaze
-- [ ] Torrent
-- [ ] Swarm
-- [ ] Rock Head
+- [x] Overgrow
+- [x] Blaze
+- [x] Torrent
+- [x] Swarm
+- [x] Rock Head
 - [ ] Drought
-- [ ] Arena Trap
-- [ ] Vital Spirit
-- [ ] White Smoke
-- [ ] Pure Power
-- [ ] Shell Armor
-- [ ] Air Lock
+- [x] Arena Trap
+- [x] Vital Spirit
+- [x] White Smoke
+- [x] Pure Power
+- [x] Shell Armor
+- [x] Air Lock
 - [ ] Tangled Feet
-- [ ] Motor Drive
+- [x] Motor Drive
 - [ ] Rivalry
 - [ ] Steadfast
 - [ ] Snow Cloak
-- [ ] Gluttony
-- [ ] Anger Point
-- [ ] Unburden
-- [ ] Heatproof
-- [ ] Simple
-- [ ] Dry Skin
-- [ ] Download
-- [ ] Iron Fist
-- [ ] Poison Heal
-- [ ] Adaptability
-- [ ] Skill Link
-- [ ] Hydration
-- [ ] Solar Power
-- [ ] Quick Feet
-- [ ] Normalize
-- [ ] Sniper
-- [ ] Magic Guard
-- [ ] No Guard
+- [x] Gluttony
+- [x] Anger Point
+- [x] Unburden
+- [x] Heatproof
+- [x] Simple
+- [x] Dry Skin
+- [x] Download
+- [x] Iron Fist
+- [ ] Poison Heal: changed to be similar to its gen 5+ counterpart.
+- [x] Adaptability
+- [x] Skill Link
+- [x] Hydration
+- [x] Solar Power
+- [x] Quick Feet
+- [ ] Normalize: changed to be similar to its gen 7+ counterpart.
+- [x] Sniper
+- [x] Magic Guard
+- [x] No Guard
 - [ ] Stall
-- [ ] Technician
-- [ ] Leaf Guard
+- [x] Technician
+- [ ] Leaf Guard: Rest will no longer fail for a Pokemon with Leaf Guard.
 - [ ] Klutz
-- [ ] Mold Breaker
+- [x] Mold Breaker
 - [ ] Super Luck
-- [ ] Aftermath
+- [x] Aftermath
 - [ ] Anticipation
 - [ ] Forewarn
-- [ ] Unaware
-- [ ] Tinted Lens
-- [ ] Filter
+- [x] Unaware
+- [x] Tinted Lens
+- [x] Filter
 - [ ] Slow Start
 - [ ] Scrappy
-- [ ] Storm Drain
+- [ ] Storm Drain: changed to be similar to its gen 5+ counterpart.
 - [ ] Ice Body
-- [ ] Solid Rock
+- [x] Solid Rock
 - [ ] Snow Warning
 - [ ] Honey Gather
 - [ ] Frisk
-- [ ] Reckless
-- [ ] Multitype
+- [x] Reckless
+- [x] Multitype
 - [ ] Flower Gift
-- [ ] Bad Dreams
+- [x] Bad Dreams
