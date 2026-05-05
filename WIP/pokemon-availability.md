@@ -249,15 +249,15 @@
 - [ ] 249	Lugia
 - [ ] 250	Ho-oh
 - [ ] 251	Celebi
-- [ ] 252	Treecko
-- [ ] 253	Grovyle
-- [ ] 254	Sceptile
-- [ ] 255	Torchic
-- [ ] 256	Combusken
-- [ ] 257	Blaziken
-- [ ] 258	Mudkip
-- [ ] 259	Marshtomp
-- [ ] 260	Swampert
+- [X] 252	Treecko
+- [X] 253	Grovyle
+- [X] 254	Sceptile
+- [X] 255	Torchic
+- [X] 256	Combusken
+- [X] 257	Blaziken
+- [X] 258	Mudkip
+- [X] 259	Marshtomp
+- [X] 260	Swampert
 - [ ] 261	Poochyena
 - [ ] 262	Mightyena
 - [ ] 263	Zigzagoon
