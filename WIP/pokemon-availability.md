@@ -7,12 +7,12 @@
 - [X] 007	Squirtle
 - [X] 008	Wartortle
 - [X] 009	Blastoise
-- [ ] 010	Caterpie
-- [ ] 011	Metapod
-- [ ] 012	Butterfree
-- [ ] 013	Weedle
-- [ ] 014	Kakuna
-- [ ] 015	Beedrill
+- [x] 010	Caterpie
+- [x] 011	Metapod
+- [x] 012	Butterfree
+- [x] 013	Weedle
+- [x] 014	Kakuna
+- [x] 015	Beedrill
 - [X] 016	Pidgey
 - [X] 017	Pidgeotto
 - [X] 018	Pidgeot
@@ -439,7 +439,7 @@
 - [ ] 439	Mime Jr.
 - [ ] 440	Happiny
 - [X] 441	Chatot
-- [ ] 442	Spiritomb
+- [x] 442	Spiritomb
 - [x] 443	Gible
 - [x] 444	Gabite
 - [x] 445	Garchomp
@@ -476,7 +476,7 @@
 - [ ] 476	Probopass
 - [ ] 477	Dusknoir
 - [ ] 478	Froslass
-- [ ] 479	Rotom
+- [x] 479	Rotom
 - [ ] 480	Uxie
 - [ ] 481	Mesprit
 - [ ] 482	Azelf
