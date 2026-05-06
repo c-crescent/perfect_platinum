@@ -89,8 +89,16 @@
         ]
     },
     "evolutions": [
-        [ "EVO_LEVEL_MOSS_ROCK", "SPECIES_LEAFEON" ],
-        [ "EVO_LEVEL_ICE_ROCK", "SPECIES_GLACEON" ],
+        [ 
+            "EVO_USE_ITEM",
+            "ITEM_LEAF_STONE",
+            "SPECIES_LEAFEON"
+        ],
+        [ 
+            "EVO_USE_ITEM",
+            "ITEM_SHINY_STONE", 
+            "SPECIES_GLACEON" 
+        ],
         [
             "EVO_USE_ITEM",
             "ITEM_THUNDERSTONE",
