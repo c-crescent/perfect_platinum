@@ -83,13 +83,13 @@
     },
     "evolutions": [
         [
-            "EVO_TRADE_WITH_HELD_ITEM",
-            "ITEM_DEEPSEATOOTH",
+            "EVO_USE_ITEM",
+            "ITEM_WATER_STONE",
             "SPECIES_HUNTAIL"
         ],
         [
-            "EVO_TRADE_WITH_HELD_ITEM",
-            "ITEM_DEEPSEASCALE",
+            "EVO_LEVEL",
+            32,
             "SPECIES_GOREBYSS"
         ]
     ],
