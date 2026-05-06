@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_PINECO"
         },
         {
             "level": 18,
@@ -59,8 +59,8 @@
         "SPECIES_PONYTA"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_SHROOMISH",
+        "SPECIES_SHROOMISH"
     ],
     "radar": [
         "SPECIES_MILTANK",

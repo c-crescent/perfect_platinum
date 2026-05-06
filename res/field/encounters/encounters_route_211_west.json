@@ -31,11 +31,11 @@
         },
         {
             "level": 14,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 15,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 16,
@@ -55,7 +55,7 @@
         "SPECIES_BIDOOF"
     ],
     "day": [
-        "SPECIES_MEDITITE",
+        "SPECIES_SLAKOTH",
         "SPECIES_MEDITITE"
     ],
     "night": [

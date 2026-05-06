@@ -39,11 +39,11 @@
         },
         {
             "level": 29,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 30,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 29,
@@ -55,7 +55,7 @@
         "SPECIES_GRAVELER"
     ],
     "day": [
-        "SPECIES_MEDITITE",
+        "SPECIES_SLAKOTH",
         "SPECIES_MEDITITE"
     ],
     "night": [

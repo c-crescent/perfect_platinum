@@ -201,9 +201,9 @@
 - [ ] 201	Unown
 - [ ] 202	Wobbuffet
 - [X] 203	Girafarig
-- [ ] 204	Pineco
-- [ ] 205	Forretress
-- [ ] 206	Dunsparce
+- [x] 204	Pineco
+- [x] 205	Forretress
+- [x] 206	Dunsparce
 - [X] 207	Gligar
 - [x] 208	Steelix
 - [ ] 209	Snubbull
@@ -243,9 +243,9 @@
 - [ ] 243	Raikou
 - [ ] 244	Entei
 - [ ] 245	Suicune
-- [ ] 246	Larvitar
-- [ ] 247	Pupitar
-- [ ] 248	Tyranitar
+- [x] 246	Larvitar
+- [x] 247	Pupitar
+- [x] 248	Tyranitar
 - [ ] 249	Lugia
 - [ ] 250	Ho-oh
 - [ ] 251	Celebi
@@ -282,14 +282,14 @@
 - [ ] 282	Gardevoir
 - [x] 283	Surskit
 - [x] 284	Masquerain
-- [ ] 285	Shroomish
-- [ ] 286	Breloom
-- [ ] 287	Slakoth
-- [ ] 288	Vigoroth
-- [ ] 289	Slaking
-- [ ] 290	Nincada
-- [ ] 291	Ninjask
-- [ ] 292	Shedinja
+- [x] 285	Shroomish
+- [x] 286	Breloom
+- [x] 287	Slakoth
+- [x] 288	Vigoroth
+- [x] 289	Slaking
+- [x] 290	Nincada
+- [x] 291	Ninjask
+- [x] 292	Shedinja
 - [ ] 293	Whismur
 - [ ] 294	Loudred
 - [ ] 295	Exploud
@@ -340,8 +340,8 @@
 - [x] 340	Whiscash
 - [ ] 341	Corphish
 - [ ] 342	Crawdaunt
-- [ ] 343	Baltoy
-- [ ] 344	Claydol
+- [x] 343	Baltoy
+- [x] 344	Claydol
 - [ ] 345	Lileep
 - [ ] 346	Cradily
 - [ ] 347	Anorith

@@ -39,11 +39,11 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BALTOY"
         },
         {
             "level": 19,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_BALTOY"
         },
         {
             "level": 18,
@@ -59,8 +59,8 @@
         "SPECIES_PONYTA"
     ],
     "night": [
-        "SPECIES_KRICKETUNE",
-        "SPECIES_ZUBAT"
+        "SPECIES_LARVITAR",
+        "SPECIES_LARVITAR"
     ],
     "radar": [
         "SPECIES_BALTOY",

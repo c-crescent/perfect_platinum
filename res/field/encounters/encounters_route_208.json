@@ -47,7 +47,7 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_DUNSPARCE"
         }
     ],
     "swarms": [
@@ -55,7 +55,7 @@
         "SPECIES_DUNSPARCE"
     ],
     "day": [
-        "SPECIES_BUDEW",
+        "SPECIES_DUNSPARCE",
         "SPECIES_RALTS"
     ],
     "night": [
