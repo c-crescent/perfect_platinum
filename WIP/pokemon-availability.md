@@ -346,8 +346,8 @@
 - [ ] 346	Cradily
 - [ ] 347	Anorith
 - [ ] 348	Armaldo
-- [ ] 349	Feebas
-- [ ] 350	Milotic
+- [x] 349	Feebas
+- [x] 350	Milotic
 - [ ] 351	Castform
 - [ ] 352	Kecleon
 - [ ] 353	Shuppet

@@ -43,11 +43,11 @@
         },
         {
             "level": 9,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_RIOLU"
         },
         {
-            "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "level": 10,
+            "species": "SPECIES_RIOLU"
         }
     ],
     "swarms": [
