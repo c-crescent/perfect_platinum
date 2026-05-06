@@ -43,11 +43,11 @@
         },
         {
             "level": 24,
-            "species": "SPECIES_HOUNDOUR"
+            "species": "SPECIES_HIPPOPOTAS"
         },
         {
             "level": 24,
-            "species": "SPECIES_RHYHORN"
+            "species": "SPECIES_HIPPOPOTAS"
         }
     ],
     "swarms": [
@@ -56,7 +56,7 @@
     ],
     "day": [
         "SPECIES_GRAVELER",
-        "SPECIES_RHYHORN"
+        "SPECIES_HIPPOPOTAS"
     ],
     "night": [
         "SPECIES_HOUNDOUR",

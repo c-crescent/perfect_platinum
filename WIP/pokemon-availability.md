@@ -371,9 +371,9 @@
 - [x] 371	Bagon
 - [x] 372	Shelgon
 - [x] 373	Salamence
-- [ ] 374	Beldum
-- [ ] 375	Metang
-- [ ] 376	Metagross
+- [x] 374	Beldum
+- [x] 375	Metang
+- [x] 376	Metagross
 - [ ] 377	Regirock
 - [ ] 378	Regice
 - [ ] 379	Registeel
@@ -404,7 +404,7 @@
 - [x] 404	Luxio
 - [x] 405	Luxray
 - [x] 406	Budew
-- [ ] 407	Roserade
+- [X] 407	Roserade
 - [x] 408	Cranidos
 - [x] 409	Rampardos
 - [x] 410	Shieldon
@@ -444,10 +444,10 @@
 - [x] 444	Gabite
 - [x] 445	Garchomp
 - [ ] 446	Munchlax
-- [ ] 447	Riolu
-- [ ] 448	Lucario
-- [ ] 449	Hippopotas
-- [ ] 450	Hippowdon
+- [x] 447	Riolu
+- [x] 448	Lucario
+- [X] 449	Hippopotas
+- [X] 450	Hippowdon
 - [ ] 451	Skorupi
 - [ ] 452	Drapion
 - [ ] 453	Croagunk
