@@ -18,12 +18,12 @@
 - [X] 018	Pidgeot
 - [x] 019	Rattata
 - [X] 020	Raticate
-- [ ] 021	Spearow
-- [ ] 022	Fearow
-- [ ] 023	Ekans
-- [ ] 024	Arbok
+- [x] 021	Spearow
+- [x] 022	Fearow
+- [x] 023	Ekans
+- [x] 024	Arbok
 - [x] 025	Pikachu
-- [ ] 026	Raichu
+- [x] 026	Raichu
 - [ ] 027	Sandshrew
 - [ ] 028	Sandslash
 - [ ] 029	Nidoran♀
@@ -93,8 +93,8 @@
 - [X] 093	Haunter
 - [ ] 094	Gengar
 - [x] 095	Onix
-- [ ] 096	Drowzee
-- [ ] 097	Hypno
+- [x] 096	Drowzee
+- [x] 097	Hypno
 - [ ] 098	Krabby
 - [ ] 099	Kingler
 - [ ] 100	Voltorb
@@ -128,12 +128,12 @@
 - [ ] 128	Tauros
 - [X] 129	Magikarp
 - [X] 130	Gyarados
-- [ ] 131	Lapras
+- [X] 131	Lapras
 - [ ] 132	Ditto
 - [x] 133	Eevee
-- [ ] 134	Vaporeon
-- [ ] 135	Jolteon
-- [ ] 136	Flareon
+- [x] 134	Vaporeon
+- [x] 135	Jolteon
+- [x] 136	Flareon
 - [ ] 137	Porygon
 - [ ] 138	Omanyte
 - [ ] 139	Omastar
@@ -197,7 +197,7 @@
 - [ ] 197	Umbreon
 - [ ] 198	Murkrow
 - [ ] 199	Slowking
-- [ ] 200	Misdreavus
+- [X] 200	Misdreavus
 - [ ] 201	Unown
 - [ ] 202	Wobbuffet
 - [X] 203	Girafarig
@@ -330,8 +330,8 @@
 - [ ] 330	Flygon
 - [ ] 331	Cacnea
 - [ ] 332	Cacturne
-- [ ] 333	Swablu
-- [ ] 334	Altaria
+- [x] 333	Swablu
+- [x] 334	Altaria
 - [ ] 335	Zangoose
 - [ ] 336	Seviper
 - [ ] 337	Lunatone
@@ -368,9 +368,9 @@
 - [ ] 368	Gorebyss
 - [ ] 369	Relicanth
 - [x] 370	Luvdisc
-- [ ] 371	Bagon
-- [ ] 372	Shelgon
-- [ ] 373	Salamence
+- [x] 371	Bagon
+- [x] 372	Shelgon
+- [x] 373	Salamence
 - [ ] 374	Beldum
 - [ ] 375	Metang
 - [ ] 376	Metagross
@@ -426,7 +426,7 @@
 - [ ] 426	Drifblim
 - [X] 427	Buneary
 - [X] 428	Lopunny
-- [ ] 429	Mismagius
+- [X] 429	Mismagius
 - [ ] 430	Honchkrow
 - [ ] 431	Glameow
 - [ ] 432	Purugly

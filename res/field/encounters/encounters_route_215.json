@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_DROWZEE"
         },
         {
             "level": 20,
@@ -47,7 +47,7 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_KADABRA"
+            "species": "SPECIES_DROWZEE"
         }
     ],
     "swarms": [
