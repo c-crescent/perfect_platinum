@@ -12,6 +12,7 @@
 - Minimum surfing encounter rate is now 10%
 - Fishing encounter rate changed to match surfing
 - All 493 Pokemon and their variants available to catch in a single save file without trading (WIP)
+- Removed all friendship, move-based, or location-based evolutions
 
 # Bug Fixes
 - Abilities now properly increase fishing encounter rates
