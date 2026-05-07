@@ -47,7 +47,7 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_NATU"
         }
     ],
     "swarms": [
@@ -55,8 +55,8 @@
         "SPECIES_ZUBAT"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_NATU",
+        "SPECIES_NATU"
     ],
     "night": [
         "SPECIES_DUSKULL",

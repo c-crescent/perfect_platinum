@@ -43,11 +43,11 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_SOLROCK"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_SOLROCK"
         }
     ],
     "swarms": [
@@ -59,8 +59,8 @@
         "SPECIES_GOLBAT"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_MAWILE",
+        "SPECIES_MAWILE"
     ],
     "radar": [
         "SPECIES_GRAVELER",

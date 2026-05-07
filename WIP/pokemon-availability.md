@@ -36,8 +36,8 @@
 - [ ] 036	Clefable
 - [ ] 037	Vulpix
 - [ ] 038	Ninetales
-- [ ] 039	Jigglypuff
-- [ ] 040	Wigglytuff
+- [X] 039	Jigglypuff
+- [X] 040	Wigglytuff
 - [X] 041	Zubat
 - [X] 042	Golbat
 - [ ] 043	Oddish
@@ -85,8 +85,8 @@
 - [ ] 085	Dodrio
 - [ ] 086	Seel
 - [ ] 087	Dewgong
-- [ ] 088	Grimer
-- [ ] 089	Muk
+- [X] 088	Grimer
+- [X] 089	Muk
 - [X] 090	Shellder
 - [X] 091	Cloyster
 - [X] 092	Gastly
@@ -103,11 +103,11 @@
 - [ ] 103	Exeggutor
 - [ ] 104	Cubone
 - [ ] 105	Marowak
-- [ ] 106	Hitmonlee
-- [ ] 107	Hitmonchan
+- [x] 106	Hitmonlee
+- [x] 107	Hitmonchan
 - [X] 108	Lickitung
-- [ ] 109	Koffing
-- [ ] 110	Weezing
+- [x] 109	Koffing
+- [x] 110	Weezing
 - [x] 111	Rhyhorn
 - [x] 112	Rhydon
 - [X] 113	Chansey
@@ -169,13 +169,13 @@
 - [ ] 169	Crobat
 - [ ] 170	Chinchou
 - [ ] 171	Lanturn
-- [] 172	Pichu
+- [x] 172	Pichu
 - [X] 173	Cleffa
-- [ ] 174	Igglybuff
+- [X] 174	Igglybuff
 - [ ] 175	Togepi
 - [ ] 176	Togetic
-- [ ] 177	Natu
-- [ ] 178	Xatu
+- [x] 177	Natu
+- [x] 178	Xatu
 - [ ] 179	Mareep
 - [ ] 180	Flaaffy
 - [ ] 181	Ampharos
@@ -233,8 +233,8 @@
 - [ ] 233	Porygon2
 - [ ] 234	Stantler
 - [ ] 235	Smeargle
-- [ ] 236	Tyrogue
-- [ ] 237	Hitmontop
+- [x] 236	Tyrogue
+- [x] 237	Hitmontop
 - [x] 238	Smoochum
 - [ ] 239	Elekid
 - [ ] 240	Magby
@@ -290,17 +290,17 @@
 - [x] 290	Nincada
 - [x] 291	Ninjask
 - [x] 292	Shedinja
-- [ ] 293	Whismur
-- [ ] 294	Loudred
-- [ ] 295	Exploud
-- [ ] 296	Makuhita
-- [ ] 297	Hariyama
+- [x] 293	Whismur
+- [x] 294	Loudred
+- [x] 295	Exploud
+- [X] 296	Makuhita
+- [X] 297	Hariyama
 - [ ] 298	Azurill
 - [X] 299	Nosepass
-- [ ] 300	Skitty
-- [ ] 301	Delcatty
-- [ ] 302	Sableye
-- [ ] 303	Mawile
+- [X] 300	Skitty
+- [X] 301	Delcatty
+- [X] 302	Sableye
+- [X] 303	Mawile
 - [ ] 304	Aron
 - [ ] 305	Lairon
 - [ ] 306	Aggron
@@ -334,8 +334,8 @@
 - [x] 334	Altaria
 - [ ] 335	Zangoose
 - [ ] 336	Seviper
-- [ ] 337	Lunatone
-- [ ] 338	Solrock
+- [X] 337	Lunatone
+- [X] 338	Solrock
 - [x] 339	Barboach
 - [x] 340	Whiscash
 - [ ] 341	Corphish
@@ -422,8 +422,8 @@
 - [X] 422	Shellos
 - [X] 423	Gastrodon
 - [ ] 424	Ambipom
-- [ ] 425	Drifloon
-- [ ] 426	Drifblim
+- [X] 425	Drifloon
+- [X] 426	Drifblim
 - [X] 427	Buneary
 - [X] 428	Lopunny
 - [X] 429	Mismagius

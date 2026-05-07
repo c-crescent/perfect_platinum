@@ -43,11 +43,11 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_LUNATONE"
         }
     ],
     "swarms": [
@@ -59,8 +59,8 @@
         "SPECIES_GOLBAT"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_SABLEYE",
+        "SPECIES_SABLEYE"
     ],
     "radar": [
         "SPECIES_GRAVELER",
