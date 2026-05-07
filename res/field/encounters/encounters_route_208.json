@@ -170,12 +170,12 @@
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_CLAMPERL"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_CLAMPERL"
         }
     ],
     "super_rod_rate": 75,

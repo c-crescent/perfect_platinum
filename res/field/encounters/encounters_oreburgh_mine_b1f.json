@@ -43,11 +43,11 @@
         },
         {
             "level": 8,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_TRAPINCH"
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_TRAPINCH"
         }
     ],
     "swarms": [
@@ -55,8 +55,8 @@
         "SPECIES_GEODUDE"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT"
+        "SPECIES_TRAPINCH",
+        "SPECIES_TRAPINCH"
     ],
     "night": [
         "SPECIES_ZUBAT",

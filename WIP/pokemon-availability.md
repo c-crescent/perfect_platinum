@@ -278,8 +278,8 @@
 - [X] 278	Wingull
 - [X] 279	Pelipper
 - [X] 280	Ralts
-- [ ] 281	Kirlia
-- [ ] 282	Gardevoir
+- [x] 281	Kirlia
+- [x] 282	Gardevoir
 - [x] 283	Surskit
 - [x] 284	Masquerain
 - [x] 285	Shroomish
@@ -301,9 +301,9 @@
 - [X] 301	Delcatty
 - [X] 302	Sableye
 - [X] 303	Mawile
-- [ ] 304	Aron
-- [ ] 305	Lairon
-- [ ] 306	Aggron
+- [x] 304	Aron
+- [x] 305	Lairon
+- [x] 306	Aggron
 - [X] 307	Meditite
 - [X] 308	Medicham
 - [ ] 309	Electrike
@@ -325,9 +325,9 @@
 - [ ] 325	Spoink
 - [ ] 326	Grumpig
 - [ ] 327	Spinda
-- [ ] 328	Trapinch
-- [ ] 329	Vibrava
-- [ ] 330	Flygon
+- [X] 328	Trapinch
+- [X] 329	Vibrava
+- [X] 330	Flygon
 - [ ] 331	Cacnea
 - [ ] 332	Cacturne
 - [x] 333	Swablu
@@ -363,9 +363,9 @@
 - [ ] 363	Spheal
 - [ ] 364	Sealeo
 - [ ] 365	Walrein
-- [ ] 366	Clamperl
-- [ ] 367	Huntail
-- [ ] 368	Gorebyss
+- [X] 366	Clamperl
+- [X] 367	Huntail
+- [X] 368	Gorebyss
 - [ ] 369	Relicanth
 - [x] 370	Luvdisc
 - [x] 371	Bagon
