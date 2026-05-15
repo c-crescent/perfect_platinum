@@ -4,7 +4,7 @@
     "type": "TYPE_GRASS",
     "power": 40,
     "accuracy": 100,
-    "pp": 15,
+    "pp": 25,
     "effect": {
         "type": "BATTLE_EFFECT_HIT",
         "chance": 0
