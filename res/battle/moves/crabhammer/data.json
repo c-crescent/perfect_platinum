@@ -2,7 +2,7 @@
     "name": "Crabhammer",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_WATER",
-    "power": 90,
+    "power": 100,
     "accuracy": 90,
     "pp": 10,
     "effect": {

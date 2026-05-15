@@ -2,7 +2,7 @@
     "name": "Meteor Mash",
     "class": "CLASS_PHYSICAL",
     "type": "TYPE_STEEL",
-    "power": 100,
+    "power": 90,
     "accuracy": 85,
     "pp": 10,
     "effect": {
