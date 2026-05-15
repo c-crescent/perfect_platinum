@@ -60,7 +60,6 @@
 #include "terrain_collision_manager.h"
 #include "trainer_info.h"
 #include "trainer_see.h"
-#include "unk_02030EE0.h"
 #include "unk_020366A0.h"
 #include "unk_0203C954.h"
 #include "unk_02054884.h"
@@ -69,6 +68,7 @@
 #include "unk_0205B33C.h"
 #include "unk_0205F180.h"
 #include "vars_flags.h"
+#include "wireless_manager.h"
 
 static BOOL Field_CheckMapTransition(FieldSystem *fieldSystem, const FieldInput *input);
 static u16 Field_TileBehaviorToScript(FieldSystem *fieldSystem, u8 behavior);
@@ -451,7 +451,7 @@ static int Field_CheckTrainerInfo(void)
 
 BOOL FieldInput_Process_UnionRoom(const FieldInput *input, FieldSystem *fieldSystem)
 {
-    if (sub_020318EC() & 0xfe) {
+    if (WirelessManager_GetConnectedBitmap() & 0xfe) {
         if (Field_CheckTrainerInfo() && CommSys_ConnectedCount() > 1) {
             ScriptManager_Set(fieldSystem, 5, NULL);
             return TRUE;
@@ -705,7 +705,7 @@ u16 Field_TileBehaviorToScript(FieldSystem *fieldSystem, u8 behavior)
 
 static BOOL Field_ProcessStep(FieldSystem *fieldSystem)
 {
-    if (PersistedMapFeatures_IsCurrentDynamicMap(fieldSystem, DYNAMIC_MAP_FEATURES_CANALAVE_GYM) == TRUE && ov8_0224AAA8(fieldSystem)) {
+    if (PersistedMapFeatures_IsCurrentDynamicMap(fieldSystem, DYNAMIC_MAP_FEATURES_CANALAVE_GYM) == TRUE && CanalaveGym_CheckIfPlayerOnPlatform(fieldSystem)) {
         return TRUE;
     }
 
