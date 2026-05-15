@@ -2,7 +2,7 @@
     "name": "Future Sight",
     "class": "CLASS_SPECIAL",
     "type": "TYPE_PSYCHIC",
-    "power": 80,
+    "power": 100,
     "accuracy": 90,
     "pp": 15,
     "effect": {

@@ -2,7 +2,7 @@
     "name": "Doom Desire",
     "class": "CLASS_SPECIAL",
     "type": "TYPE_STEEL",
-    "power": 120,
+    "power": 140,
     "accuracy": 85,
     "pp": 5,
     "effect": {
