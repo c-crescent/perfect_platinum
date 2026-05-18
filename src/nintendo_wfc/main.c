@@ -90,8 +90,8 @@ typedef struct NintendoWFCManager {
     int dataSent;
     int maxPlayers;
     u32 voiceConnectedIDs;
-    int primaryHeapID;
-    int secondaryHeapID;
+    enum HeapID primaryHeapID;
+    enum HeapID secondaryHeapID;
     int heapSize;
     BOOL voiceChatActive;
     int hostFriendIdx;
@@ -1116,7 +1116,7 @@ int NintendoWFC_GetErrorCode(int errorCode, int errorType)
     case DWC_ETYPE_DISCONNECT:
         return 10;
     default:
-        GF_ASSERT(0);
+        GF_ASSERT(FALSE);
         break;
     case DWC_ETYPE_FATAL:
         return 15;
